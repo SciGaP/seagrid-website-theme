@@ -1,14 +1,14 @@
 <hr class="separation-line blue-bg"/>
 <div class="col-md-12 new-collaborators text-center">
-    <div class="col-md-3">
+    <div class="col-md-4">
         <img src="{{ URL::to('/') }}/../themes/{{Session::get('theme')}}/assets/img/iu-logo.png"/>
     </div>
-	<div class="col-md-2" style="margin-top:3%;">
+	<div class="col-md-3">
 		<img src="{{URL::to('/')}}/../themes/{{Session::get('theme')}}/assets/img/powered-by-apache-airavata.png">
 	</div>
     <div class="col-md-3">
         <img src="{{ URL::to('/') }}/../themes/{{Session::get('theme')}}/assets/img/powered-by-xsede.gif">
-    <div>
+    </div>
 	<div class="col-md-2">
 		<img src="{{URL::to('/')}}/../themes/{{Session::get('theme')}}/assets/img/nsf-logo.gif">
 	</div>
