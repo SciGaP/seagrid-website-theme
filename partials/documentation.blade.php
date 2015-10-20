@@ -44,7 +44,7 @@ GridChem (Chapter 3 of the User's Manual)</a><br>
 Gaussian Input File</a></li></ul>
 <h5>Papers and Publications<br>
 </h5>
-Click (<a href="/papers/index.shtml">here</a>) to find papers and other
+Click (<a href="{{URL::to('/')}}/pages/outreach">here</a>) to find papers and other
 publications discussing specific details of GridChem capabilities or
 technologies.
 

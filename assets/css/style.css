@@ -33,9 +33,21 @@ body{
 	min-height:800px;
 	width: 100%;
   	height: auto;
-    background:url('http://placehold.it/1280x800') no-repeat center center fixed;
+    background:url('../img/seagrid-hero-731x372-new.jpg') no-repeat center center;
     background-size:cover;
   }
+
+@media (max-width:767px){
+    .hero-unit{
+        min-height:500px;
+        background:url('../img/seagrid-hero-360x496.jpg') no-repeat center center fixed;
+    }
+}
+
+.hero-unit{
+
+}
+
 .hero-unit h1 {
     color: #FFFFFF;
     font-size: 60px;
@@ -116,12 +128,12 @@ body{
 }
 
 .new-collaborators img, .old-collaborators img{
-    width:50%;
+    width:90%;
     margin-bottom: 10%;
 }
 
 .new-collaborators{
-    margin-bottom: 2.5%;
+    /*margin-bottom: 2.5%;*/
 }
 
 .old-collaborators{

@@ -1,8 +1,10 @@
 <div class="col-md-12 hero-unit">
+	<!--
 	<h1>Hero Image</h1>
 	<h2>This is a simple hero unit, a simple jumbotron-style component for calling extra 7
 	attention to featured content or information.</h2>
 	<p><a class="btn btn-primary btn-large">Learn more</a></p>
+	-->
 </div>
 
 <div class="col-md-12 text-center breathing-space">
@@ -12,15 +14,15 @@
 	</p>
 </div>
 
-<div class="col-md-12 text-center blue-bg breathing-space">
+<div class="col-md-12 text-center blue-bg">
 	<h1>How do we do it?</h1><br/>
 	<div class="video-space">
 		<img src="{{ URL::to('/') }}/../themes/seagrid/assets/img/workflow.png"/>
 	</div>
 </div>
 
-<div class="col-md-12 text-center breathing-space">
-	<h1>Features</h1><br/>
+<div class="col-md-12 text-center">
+	<h1 class=" breathing-space">Features</h1><br/>
 	<div class="col-md-3">
 		<span class="glyphicon glyphicon-search" aria-hidden="true"></span>
 		<h3>Heading1</h3>
@@ -100,6 +102,7 @@
 	</div>
 </div>
 
+<!--
 <div class="col-md-12 text-center">
 	<h1>Team</h1><br/>
 	<div class="team col-md-3">
@@ -143,3 +146,4 @@
 		<h4>Sudhakar Pamidighantam</h4>
 	</div>
 </div>
+-->

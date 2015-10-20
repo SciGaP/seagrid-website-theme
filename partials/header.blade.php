@@ -1,4 +1,4 @@
-<link media="all" type="text/css" rel="stylesheet" href="{{ URL::to('/') }}/../themes/seagrid/assets/css/style.css"/>
+<link media="all" type="text/css" rel="stylesheet" href="{{ URL::to('/') }}/../themes/{{Session::get('theme')}}/assets/css/style.css"/>
 
 <div class="seagrid">
     <div class="container-fluid">
@@ -12,7 +12,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand page-scroll" href="{{ URL::to('/') }}/home">
-                    <img src="{{ URL::to('/') }}/../themes/seagrid/assets/img/logo.png"/>
+                    <img src="{{ URL::to('/') }}/../themes/{{Session::get('theme')}}/assets/img/logo.png"/>
                 </a>
             </div>
 
@@ -23,22 +23,24 @@
                         <a href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="pages/downloads">Downloads</a>
+                        <a class="page-scroll" href="{{URL::to('/')}}/pages/downloads">Downloads</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="pages/documentation">Documentation</a>
+                        <a class="page-scroll" href="{{URL::to('/')}}/pages/documentation">Documentation</a>
                     </li>
+                    <!--
                     <li>
                         <a class="page-scroll" href="#collaborators">News</a>
                     </li>
+                    -->
                     <li>
-                        <a class="page-scroll" href="pages/outreach">Outreach</a>
+                        <a class="page-scroll" href="{{URL::to('/')}}/pages/publications">Publications</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="pages/about">About</a>
+                        <a class="page-scroll" href="{{URL::to('/')}}/pages/about">About</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#collaborators">Contact</a>
+                        <a class="page-scroll" href="{{URL::to('/')}}/pages/contact">Contact</a>
                     </li>
                     <!--
                     <li>

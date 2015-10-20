@@ -1,22 +1,26 @@
 
-<div class="row">
-<div class="blue-bg col-md-12 new-collaborators">
-	<div class="col-md-2">
-		<img src="https://gridchem.org/images/powered_by_xsede.gif">
+
+<hr class="separation-line blue-bg"/>
+<div class="col-md-12 new-collaborators text-center">
+	<div class="col-md-3">
+		<img src="{{ URL::to('/') }}/../themes/{{Session::get('theme')}}/assets/img/xsede-full-color.png">
 	</div>
-	<div class="col-md-4">
-		<img src="{{ URL::to('/') }}/../themes/seagrid/assets/img/iu-logo.png"/>
-	</div>
-	<div class="col-md-2">
-		<img src="http://scigap.org/wp-content/uploads/2013/09/SciGaP_main_graphic.png">
+	<div class="col-md-3">
+		<img src="{{ URL::to('/') }}/../themes/{{Session::get('theme')}}/assets/img/iu-logo.png"/>
 	</div>
 	<div class="col-md-2">
-		<img src="http://airavata.apache.org/images/airavata-title-text.png">
+		<img src="{{URL::to('/')}}/../themes/{{Session::get('theme')}}/assets/img/SciGaP_main_graphic.png">
+	</div>
+	<div class="col-md-2" style="margin-top:3%;">
+		<img src="{{URL::to('/')}}/../themes/{{Session::get('theme')}}/assets/img/airavata-title-text.png">
 	</div>
 	<div class="col-md-2">
-		<img src="https://gridchem.org/images/nsflogo_small.gif">
+		<img src="{{URL::to('/')}}/../themes/{{Session::get('theme')}}/assets/img/nsflogo.jpg">
 	</div>
 </div>
+
+<!-- 
+
 <div class="col-md-12">
 <h3 class="text-center">Seagrid has evolved from previous invaluable collaborations.</h3>
 </div>
@@ -37,4 +41,5 @@
 		<img src="https://gridchem.org/images/osclogo_small.gif">
 	</div>
 </div>
-</div>
+
+-->

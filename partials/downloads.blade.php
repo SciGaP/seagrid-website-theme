@@ -16,16 +16,17 @@
 
 		<a href="#">
 			<div class="col-md-6 well download-click darker-blue-bg">
-				<p>Download Version 1.6.4</p>
+				<p>Download</p>
 			</div>
 		</a>
 
 	</div>
 	<div class="col-md-12">
-		<hr class="separation-line blue-bg"/>
+	<hr class="separation-line blue-bg"/>
 	</div>
 
 	<div class="col-md-12">
+		<!--
 		<div class="col-md-6">
 			<h3>Release Notes</h3>
 			<ul>
@@ -37,7 +38,7 @@
 				<li> 12/20/2006 - <a href="#">Release 0.5.0</a></li>
 			</ul>
 		</div>
-
+		-->
 		<div class="col-md-6">
 			<h3>Join Users Mailing List</h3>
 			<form>
