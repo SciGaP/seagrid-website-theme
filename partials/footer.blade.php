@@ -2,20 +2,17 @@
 
 <hr class="separation-line blue-bg"/>
 <div class="col-md-12 new-collaborators text-center">
-	<div class="col-md-3">
-		<img src="{{ URL::to('/') }}/../themes/{{Session::get('theme')}}/assets/img/xsede-full-color.png">
-	</div>
-	<div class="col-md-3">
-		<img src="{{ URL::to('/') }}/../themes/{{Session::get('theme')}}/assets/img/iu-logo.png"/>
-	</div>
-	<div class="col-md-2">
-		<img src="{{URL::to('/')}}/../themes/{{Session::get('theme')}}/assets/img/SciGaP_main_graphic.png">
-	</div>
+    <div class="col-md-3">
+        <img src="{{ URL::to('/') }}/../themes/{{Session::get('theme')}}/assets/img/iu-logo.png"/>
+    </div>
 	<div class="col-md-2" style="margin-top:3%;">
-		<img src="{{URL::to('/')}}/../themes/{{Session::get('theme')}}/assets/img/airavata-title-text.png">
+		<img src="{{URL::to('/')}}/../themes/{{Session::get('theme')}}/assets/img/powered-by-apache-airavata">
 	</div>
+    <div class="col-md-3">
+        <img src="{{ URL::to('/') }}/../themes/{{Session::get('theme')}}/assets/img/powered-by-xsede.gif">
+    <div>
 	<div class="col-md-2">
-		<img src="{{URL::to('/')}}/../themes/{{Session::get('theme')}}/assets/img/nsflogo.jpg">
+		<img src="{{URL::to('/')}}/../themes/{{Session::get('theme')}}/assets/img/nsf-logo.gif">
 	</div>
 </div>
 
