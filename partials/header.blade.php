@@ -12,7 +12,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand page-scroll" href="{{ URL::to('/') }}/home">
-                    <img class="seagrid-logo" src="{{ URL::to('/') }}/../themes/{{Session::get('theme')}}/assets/img/logo1.png"/>
+                    <img class="seagrid-logo" src="{{ URL::to('/') }}/../themes/{{Session::get('theme')}}/assets/img/logo.png"/>
                 </a>
             </div>
 

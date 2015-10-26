@@ -12,7 +12,7 @@
 </div>
 
 <div class="col-md-12 text-center breathing-space seagrid-info">
-	<h1><img class="seagrid-logo" src="{{URL::to('/')}}/../themes/{{Session::get('theme')}}/assets/img/logo1.png"/> Features</h1><br/>
+	<h1><img class="seagrid-logo" src="{{URL::to('/')}}/../themes/{{Session::get('theme')}}/assets/img/logo.png"/> Features</h1><br/>
 	<p class="font-1-5">
 		The Science and Engineering Grid (SEAGrid) is a tool that allows researchers to easily use scientific applications deployed across a wide range of supercomputers, campus clusters, and computing cloud. SEAGrid features both a powerful desktop client and go-anywhere Web application. SEAGrid helps scientist create model inputs, simplifies access to computing resources, enables visualizations of outputs, and provides archives for simulation data. 
 	</p>
@@ -49,68 +49,13 @@
 </div>
 
 <div class="col-md-12 text-center seagrid-workflow darker-blue-bg">
-	<h1><img class="seagrid-logo" src="{{URL::to('/')}}/../themes/{{Session::get('theme')}}/assets/img/logo1.png"/> DNA</h1><br/>
+	<h1><img class="seagrid-logo" src="{{URL::to('/')}}/../themes/{{Session::get('theme')}}/assets/img/logo.png"/> DNA</h1><br/>
 	<div class="video-space">
 		<img src="{{ URL::to('/') }}/../themes/{{Session::get('theme')}}/assets/img/workflow.png"/>
 	</div>
 </div>
-<!--
-<div class="col-md-12 text-center blue-bg breathing-space">
-	<h1>News</h1><br/>
-	<div class="col-md-4">
-		<div class="news">
-			<h3>News 1</h3>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse in sem sed dolor vulputate bibendum. Morbi lacinia ligula non lectus posuere Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse in sem sed dolor vulputate bibendum. Morbi lacinia ligula non lectus posuere Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse in sem sed dolor vulputate bibendum. Morbi lacinia ligula non lectus posuere</p>
-		</div>
-	</div>
-	<div class="col-md-4">
-		<div class="news">
-			<h3>News 2</h3>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse in sem sed dolor vulputate bibendum. Morbi lacinia ligula non lectus posuere Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse in sem sed dolor vulputate bibendum. Morbi lacinia ligula non lectus posuere Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse in sem sed dolor vulputate bibendum. Morbi lacinia ligula non lectus posuere</p>
-		</div>
-	</div>
-	<div class="col-md-4">
-		<div class="news">
-			<h3>News 3</h3>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse in sem sed dolor vulputate bibendum. Morbi lacinia ligula non lectus posuere Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse in sem sed dolor vulputate bibendum. Morbi lacinia ligula non lectus posuere Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse in sem sed dolor vulputate bibendum. Morbi lacinia ligula non lectus posuere</p>
-		</div>
-	</div>
-	<div class="col-md-4">
-		<div class="news">
-			<h3>News 4</h3>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse in sem sed dolor vulputate bibendum. Morbi lacinia ligula non lectus posuere Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse in sem sed dolor vulputate bibendum. Morbi lacinia ligula non lectus posuere Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse in sem sed dolor vulputate bibendum. Morbi lacinia ligula non lectus posuere</p>
-		</div>
-	</div>
-	<div class="col-md-4">
-		<div class="news">
-			<h3>News 1</h3>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse in sem sed dolor vulputate bibendum. Morbi lacinia ligula non lectus posuere Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse in sem sed dolor vulputate bibendum. Morbi lacinia ligula non lectus posuere Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse in sem sed dolor vulputate bibendum. Morbi lacinia ligula non lectus posuere</p>
-		</div>
-	</div>
-	<div class="col-md-4">
-		<div class="news">
-			<h3>News 2</h3>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse in sem sed dolor vulputate bibendum. Morbi lacinia ligula non lectus posuere Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse in sem sed dolor vulputate bibendum. Morbi lacinia ligula non lectus posuere Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse in sem sed dolor vulputate bibendum. Morbi lacinia ligula non lectus posuere</p>
-		</div>
-	</div>
-	<div class="col-md-4">
-		<div class="news">
-			<h3>News 3</h3>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse in sem sed dolor vulputate bibendum. Morbi lacinia ligula non lectus posuere Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse in sem sed dolor vulputate bibendum. Morbi lacinia ligula non lectus posuere Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse in sem sed dolor vulputate bibendum. Morbi lacinia ligula non lectus posuere</p>
-		</div>
-	</div>
-	<div class="col-md-4">
-		<div class="news">
-			<h3>News 4</h3>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse in sem sed dolor vulputate bibendum. Morbi lacinia ligula non lectus posuere Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse in sem sed dolor vulputate bibendum. Morbi lacinia ligula non lectus posuere Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse in sem sed dolor vulputate bibendum. Morbi lacinia ligula non lectus posuere</p>
-		</div>
-	</div>
-	<div class="col-md-4">
-		<div class="news read-more">
-			<h5 class="text-center"><a href='#'>Read More</a></h5>
-		</div>
-	</div>
+<div class="col-md-12 text-center blue-bg" style="padding:2.5%">
+	<a href="{{URL::to('/')}}/../themes/{{Session::get('theme')}}/assets/app/seagrid.jnlp">
+	<button style="padding:2.5%;" class="btn btn-primary col-md-offset-4 col-md-4">Download Desktop App</button>
+	</a>
 </div>
--->
-<!--
--->
