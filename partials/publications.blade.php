@@ -2,7 +2,9 @@
 
 <div class="col-md-12">
 
+
 <h2> Papers and publications</h2>
+<h4>SEAGrid has enabled the following publications. See the <a href="{{URL::to('/')}}/pages/about">About</a> page to find out how to cite the SEAGrid project.</h4>
 
 <ul style="line-height:1.6em;">
         <h3> 2015 </h3>

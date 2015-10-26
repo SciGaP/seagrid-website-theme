@@ -12,7 +12,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand page-scroll" href="{{ URL::to('/') }}/home">
-                    <img src="{{ URL::to('/') }}/../themes/{{Session::get('theme')}}/assets/img/logo.png"/>
+                    <img class="seagrid-logo" src="{{ URL::to('/') }}/../themes/{{Session::get('theme')}}/assets/img/logo1.png"/>
                 </a>
             </div>
 
@@ -23,7 +23,7 @@
                         <a href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="{{URL::to('/')}}/pages/downloads">Downloads</a>
+                        <a class="page-scroll" href="{{URL::to('/')}}/../themes/{{Session::get('theme')}}/assets/app/seagrid.jnlp">Download Desktop App</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="{{URL::to('/')}}/pages/documentation">Documentation</a>
