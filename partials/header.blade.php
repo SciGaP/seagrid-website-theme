@@ -1,3 +1,5 @@
+<title>SEAGrid</title>
+
 <link media="all" type="text/css" rel="stylesheet" href="{{ URL::to('/') }}/../themes/{{Session::get('theme')}}/assets/css/style.css"/>
 
 <div class="seagrid">
@@ -26,7 +28,7 @@
                         <a class="page-scroll" href="{{URL::to('/')}}/../themes/{{Session::get('theme')}}/assets/app/seagrid.jnlp">Download Desktop App</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="{{URL::to('/')}}/pages/documentation">Documentation</a>
+                        <a class="page-scroll" target="_blank" href="https://scigap.atlassian.net/wiki/display/SEAGrid/SEAGrid+Documentation">Documentation</a>
                     </li>
                     <!--
                     <li>

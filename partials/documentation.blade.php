@@ -1,7 +1,10 @@
 <div class="container">
 
-<div class="col-md-12">
-
+<div class="col-md-12 well breathing-space text-center">
+SEAGrid Documentation can be found in <a target="_blank" href="https://scigap.atlassian.net/wiki/display/SEAGrid/SEAGrid+Documentation">Wiki</a>.
+</div>
+</div>
+<!--
 <h2 class="text-center">Training and Documentation</h2>
 <hr class="separation-line blue-bg"/>
 <div class="col-md-12">
@@ -63,3 +66,5 @@ technologies.
 </div>
 
 </div>
+
+-->

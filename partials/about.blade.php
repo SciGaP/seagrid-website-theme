@@ -25,15 +25,19 @@
 		</p>	
 		<p>
 			<strong>Support:</strong>
-			 SEAGrid currently supported by NSF Grant #.  Previous NSF support includes awards The SEAGrid  gateway  is a production community cyberinfrastructure resource  developed under the NSF Middleware Initiative (NMI: Deployment) grant  and supported by additional advanced support through XSEDE ASTA and ECSS program activities. An OGCE [5] project funded by NSF enabled the SEAGrid gateway to adapt sustainable middleware. 		
+			 SEAGrid currently supported by NSF Grant <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1339774" target="_blank">#1339774</a>.  Previous NSF support includes awards The SEAGrid  gateway  is a production community cyberinfrastructure resource  developed under the NSF Middleware Initiative (NMI: Deployment) grant  and supported by additional advanced support through XSEDE ASTA and ECSS program activities. An OGCE [5] project funded by NSF enabled the SEAGrid gateway to adapt sustainable middleware. 		
 		</p>
-		<p>
-			<strong>Cite:</strong>
-			Citing SEAGrid in academic papers helps us show impact. If you use SEAGrid in your research please help by including the following citation information and acknowledgement in your paper.</p>
-			<p>SEAGrid (http:www.seagrid.org)[*] is acknowledged for computational resources and services for the selected results used in this publication. </p>
-			<p>* (a) N. Shen, Y. Fan, S. Pamidighantam, E-Science Infrastructures for Molecular Modeling and Parametrization, Journal of Computational Science 5 (2014), pp. 576-589; DOI information: 10.1016/j.jocs.2014.01.005 (b) R. Dooley, K. Milfeld, C. Guiang, S. Pamidighantam, G. Allen, From Proposal to Production: Lessons Learned Developing the Computational Chemistry Grid Cyberinfrastructure, Journal of Grid Computing, 2006, 4, 195-208. (c) R. Dooley, G. Allen, and S. Pamidighantam. "Computational Chemistry Grid: Production Cyberinfrastructure for Computational Chemistry". Proceedings of the 13th Annual Mardi Gras Conference, Baton Rouge, LA, Feb. 2005, pg 83. (d) K. Milfeld, C. Guiang, S. Pamidighantam, J. Giuliani. Cluster Computing through an Application-oriented Computational Chemistry Grid. Proceedings of the 2005 Linux Clusters: The HPC Revolution, Apr. 2005. (e) This work used the Extreme Science and Engineering Discovery Environment (XSEDE), which is supported by National Science Foundation grant number OCI-1053575.</p>
-	 
-		</p>
+		<div class="cite-area breathing-space">
+			<h3>Cite:</h3>
+			Citing SEAGrid in academic papers helps us show impact. If you use SEAGrid in your research please help by including the following citation information and acknowledgement in your paper.
+			<p>SEAGrid (<a href="http://www.seagrid.org">http:www.seagrid.org</a>)[*] is acknowledged for computational resources and services for the selected results used in this publication. </p>
+			<p>* (a) N. Shen, Y. Fan, S. Pamidighantam, E-Science Infrastructures for Molecular Modeling and Parametrization, Journal of Computational Science 5 (2014), pp. 576-589; DOI information: 10.1016/j.jocs.2014.01.005</p>
+			<p> (b) R. Dooley, K. Milfeld, C. Guiang, S. Pamidighantam, G. Allen, From Proposal to Production: Lessons Learned Developing the Computational Chemistry Grid Cyberinfrastructure, Journal of Grid Computing, 2006, 4, 195-208. </p>
+			<p> (c) R. Dooley, G. Allen, and S. Pamidighantam. "Computational Chemistry Grid: Production Cyberinfrastructure for Computational Chemistry". Proceedings of the 13th Annual Mardi Gras Conference, Baton Rouge, LA, Feb. 2005, pg 83. </p>
+			<p> (d) K. Milfeld, C. Guiang, S. Pamidighantam, J. Giuliani. Cluster Computing through an Application-oriented Computational Chemistry Grid. Proceedings of the 2005 Linux Clusters: The HPC Revolution, Apr. 2005. </p>
+			<p> (e) This work used the Extreme Science and Engineering Discovery Environment (XSEDE), which is supported by National Science Foundation grant number OCI-1053575.</p>
+	 		<a target="_blank" href="{{URL::to('/')}}/../themes/{{Session::get('theme')}}/assets/app/BibTex.txt">Get BibTex</a>
+		</div>
 	</div>
 
 <hr class="separation-line blue-bg"/>
