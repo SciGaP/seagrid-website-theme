@@ -28,7 +28,7 @@
                         <a class="page-scroll" href="https://seagrid.org/jnlp/seagrid.jnlp">Download Desktop App</a>
                     </li>
                     <li>
-                        <a class="page-scroll" target="_blank" href="{{URL::to('/')}}/pages/documentation">Documentation</a>
+                        <a class="page-scroll" href="{{URL::to('/')}}/pages/documentation">Documentation</a>
                     </li>
                     <!--
                     <li>
