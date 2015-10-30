@@ -4,26 +4,18 @@
 <h2 class="text-center">Training and Documentation</h2>
 <hr class="separation-line blue-bg"/>
 
-<h5>
-    SEAGrid Gateway evolved from GridChem. In addition to the desktop client, SEAGrid provides a Web Browser based gateway access.
-    These are in active development but we welcome you to try the pre-release alpha version. We however recommend using the
-    GridChem client for production usage. We will appreciate any feedback you can provide.<br>
-</h5>
+    <p> SEAGrid Gateway evolved from GridChem. <br>
+        In addition to the desktop client, SEAGrid provides a Web Browser based gateway access. </p>
+    SEAGrid gateway is in active development and we welcome you to try the pre-release alpha versions.
+    <p> However we recommend using the GridChem client for production usage.</p>
+
+    <p>  <br> We will appreciate any feedback you can provide on either services. </p>
 
 <div class="col-md-12 well breathing-space text-center">
     For detailed documentation on using the GridChem production client or Alpha preview of SEAGrid Web Portal, please visit the
     <a target="_blank" href="https://scigap.atlassian.net/wiki/display/SEAGrid/SEAGrid+Documentation">SEAGrid Wiki</a>.
 </div>
 
-<div class="col-md-12">
-	<h3 class="text-center">Note:</h3>
-	<p>
-	<ul>
-		<li> The new Java security may require you to add the https://seagrid.org to allowed sites through java security configuration. </li>
-        <li> Please follow the Documentation on the wiki to follow these steps </li>
-	</ul>
-	</p>
-</div>
 
 
 </div>
