@@ -4,13 +4,14 @@
 <h2 class="text-center">Training and Documentation</h2>
 <hr class="separation-line blue-bg"/>
 
-    <h3 class="text-center">SEAGrid Portal Vs GridChem Desktop Client</h3>
+    <h5>SEAGrid Portal Vs GridChem Desktop Client</h5>
 
-    <p> SEAGrid Gateway has evolved from initial focus in Chemistry (GridChem) encompassing broader Science and Engineeting Applications. <br>
-        In addition to the desktop client, SEAGrid provides a Web Browser based gateway access. </p> The SEAGrid gateway is in active development and we welcome you to try the pre-production alpha release.
-    <p> However we recommend using the GridChem Desktop client for production usage.</p>
+    <p> SEAGrid Gateway has evolved from initial focus in Chemistry (GridChem) encompassing broader Science and
+        Engineering Applications. In addition to the desktop client, SEAGrid provides a Web Browser based gateway access.
+        The SEAGrid gateway is in active development and we welcome you to try the pre-production alpha release and provide feedback.
 
-    <p>  <br> We will appreciate any feedback you can provide on either services. </p>
+
+    <p> Note: For production usage, we recommend using the GridChem Desktop client.</p>
 
 <div class="col-md-12 well breathing-space text-center">
     For detailed documentation on using the GridChem production client or Alpha preview of SEAGrid Web Portal, please visit the
