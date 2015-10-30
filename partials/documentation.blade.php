@@ -1,5 +1,23 @@
 <div class="container">
 
+
+<h2 class="text-center">Training and Documentation</h2>
+<hr class="separation-line blue-bg"/>
+
+<h5>SEAGrid Vs GridChem</h5>
+SEAGrid is the next generation evolution from GridChem. We currently recommend using the GridChem client for production usage.
+    is available in several formats:<br>
+
+<div class="col-md-12">
+	<h3 class="text-center">Important Security Pre-Requisite</h3>
+	<p>
+	<ul>
+		<li> The new Java security may require you to add the https://seagrid.org to allowed sites through java security configuration. </li>
+        <li> Please follow the Documentation on the wiki to follow these steps </li>
+	</ul>
+	</p>
+</div>
+
 <div class="col-md-12 well breathing-space text-center">
 SEAGrid Documentation can be found in <a target="_blank" href="https://scigap.atlassian.net/wiki/display/SEAGrid/SEAGrid+Documentation">Wiki</a>.
 </div>
