@@ -4,10 +4,11 @@
 <h2 class="text-center">Training and Documentation</h2>
 <hr class="separation-line blue-bg"/>
 
-    <p> SEAGrid Gateway evolved from GridChem. <br>
-        In addition to the desktop client, SEAGrid provides a Web Browser based gateway access. </p>
-    SEAGrid gateway is in active development and we welcome you to try the pre-release alpha versions.
-    <p> However we recommend using the GridChem client for production usage.</p>
+    <h3 class="text-center">SEAGrid Portal Vs GridChem Desktop Client</h3>
+
+    <p> SEAGrid Gateway has evolved from initial focus in Chemistry (GridChem) encompassing broader Science and Engineeting Applications. <br>
+        In addition to the desktop client, SEAGrid provides a Web Browser based gateway access. </p> The SEAGrid gateway is in active development and we welcome you to try the pre-production alpha release.
+    <p> However we recommend using the GridChem Desktop client for production usage.</p>
 
     <p>  <br> We will appreciate any feedback you can provide on either services. </p>
 
@@ -16,7 +17,7 @@
     <a target="_blank" href="https://scigap.atlassian.net/wiki/display/SEAGrid/SEAGrid+Documentation">SEAGrid Wiki</a>.
 </div>
 
-
+    <h2 class="text-center"><a target="_blank" href="https://scigap.atlassian.net/wiki/display/SEAGrid/SEAGrid+Documentation">SEAGrid Wiki</a></h2>
 
 </div>
 
