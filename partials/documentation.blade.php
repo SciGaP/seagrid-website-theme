@@ -1,10 +1,32 @@
 <div class="container">
 
+
+<h2 class="text-center">Training and Documentation</h2>
+<hr class="separation-line blue-bg"/>
+
+    <h5>SEAGrid Portal Vs GridChem Desktop Client</h5>
+
+    <p> SEAGrid Gateway has evolved from initial focus in Chemistry (GridChem) encompassing broader Science and
+        Engineering Applications. In addition to the desktop client, SEAGrid provides a Web Browser based gateway access.
+        The SEAGrid gateway is in active development and we welcome you to try the pre-production alpha release and provide feedback.
+
+
+    <p> Note: For production usage, we recommend using the GridChem Desktop client.</p>
+
 <div class="col-md-12 well breathing-space text-center">
-SEAGrid Documentation can be found in <a target="_blank" href="https://scigap.atlassian.net/wiki/display/SEAGrid/SEAGrid+Documentation">Wiki</a>.
+    For detailed documentation on using the GridChem production client or Alpha preview of SEAGrid Web Portal, please visit the
+    <a target="_blank" href="https://scigap.atlassian.net/wiki/display/SEAGrid/SEAGrid+Documentation">SEAGrid Wiki</a>.
 </div>
+
+    <h2 class="text-center"><a target="_blank" href="https://scigap.atlassian.net/wiki/display/SEAGrid/SEAGrid+Documentation">SEAGrid Wiki</a></h2>
+
 </div>
+
 <!--
+
+----- This is the data we had previously on documentation page -----
+
+
 <h2 class="text-center">Training and Documentation</h2>
 <hr class="separation-line blue-bg"/>
 <div class="col-md-12">

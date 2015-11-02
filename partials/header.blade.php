@@ -25,10 +25,15 @@
                         <a href="#page-top"></a>
                     </li>
                     <li>
+                        <a class="page-scroll" href="https://seagrid.org/jnlp-prod/gridchem.jnlp">Download Desktop App</a>
+                    </li>
+                <!--
+                    <li>
                         <a class="page-scroll" href="https://seagrid.org/jnlp/seagrid.jnlp">Download Desktop App</a>
                     </li>
+                -->
                     <li>
-                        <a class="page-scroll" target="_blank" href="https://scigap.atlassian.net/wiki/display/SEAGrid/SEAGrid+Documentation">Documentation</a>
+                        <a class="page-scroll" href="{{URL::to('/')}}/pages/documentation">Documentation</a>
                     </li>
                     <!--
                     <li>

@@ -54,8 +54,10 @@
 		<img src="{{ URL::to('/') }}/../themes/{{Session::get('theme')}}/assets/img/workflow.png"/>
 	</div>
 </div>
+<!--
 <div class="col-md-12 text-center blue-bg" style="padding:2.5%">
 	<a href="https://seagrid.org/jnlp/seagrid.jnlp">
 	<button style="padding:2.5%;" class="btn btn-primary col-md-offset-4 col-md-4">Download Desktop App</button>
 	</a>
 </div>
+-->
