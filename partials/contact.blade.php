@@ -5,7 +5,7 @@
 				<span class="glyphicon glyphicon-envelope" style="font-size:6em;"></span>
 			</div>
 			<h3 class="col-md-12">
-			You can contact SEAGrid by sending a mail to <a href="mail:to:help@seagrid.org">help@seagrid.org</a>
+			You can contact SEAGrid by sending a mail to <a href="mail:to:sgg@iu.edu">sgg@iu.edu</a>
 			</h3>
 			<br/><br/>
 			Or 
