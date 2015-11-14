@@ -14,7 +14,7 @@
 <div class="col-md-12 text-center breathing-space seagrid-info">
 	<h1><img class="seagrid-logo" src="{{URL::to('/')}}/../themes/{{Session::get('theme')}}/assets/img/logo.png"/> Features</h1><br/>
 	<p class="font-1-5">
-		The Science and Engineering Grid (SEAGrid) is a tool that allows researchers to easily use scientific applications deployed across a wide range of supercomputers, campus clusters, and computing cloud. SEAGrid features both a powerful desktop client and go-anywhere Web application. SEAGrid helps scientist create model inputs, simplifies access to computing resources, enables visualizations of outputs, and provides archives for simulation data. 
+		The Science and Engineering Applications Grid (SEAGrid) empowers researchers to easily use scientific applications deployed across a wide range of supercomputers, campus clusters, and computing cloud. SEAGrid features both a powerful desktop client and go-anywhere Web application. SEAGrid helps scientist create model inputs, simplifies access to computing resources, enables visualizations of outputs, and provides archives for simulation data.
 	</p>
 	<hr/>
 	<div class="col-md-3">
