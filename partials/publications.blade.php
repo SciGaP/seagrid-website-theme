@@ -8,6 +8,13 @@
 
 <ul style="line-height:1.6em;">
         <h3> 2015 </h3>
+        <li> N. Seeburrun, I. A. Alswaidan, H.-K. Fun, E. F. Archibong and P. Ramasami &nbsp;<strong> 
+           Probing the structural and electronic properties of doped gallium oxide and sulfide, M(GaX2)2 where M = alkali or coinage metal; X = O, S
+           </strong>&nbsp; <em> RSC Adv., 2015, 5, 106141 </em></li>
+
+        <li> Josue A. Lopez-Berganza, Yijue Diao, Sudhakar Pamidighantam, and Rosa M. Espinosa-Marzal &nbsp;<strong> 
+           Ab Initio Studies of Calcium Carbonate Hydration   </strong>&nbsp; <em> J. Phys. Chem. A, 2015, DOI: 10.1021/acs.jpca.5b09006 </em></li>
+ 
         <li>Umesh Warde &amp; Lydia Rhyman &amp; Ponnadurai Ramasami &amp; Nagaiyan Sekar &nbsp;<strong>
         DFT Studies of the Photophysical Properties of Fluorescent and Semiconductor Polycyclic
          Benzimidazole Derivatives</strong>&nbsp; <em> J Fluoresc (2015) 25:685–694 DOI 10.1007/s10895-015-1554-9 </em></li>
