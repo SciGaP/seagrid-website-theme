@@ -7,6 +7,16 @@
 <h4>SEAGrid has enabled the following publications. See the <a href="{{URL::to('/')}}/pages/about">About</a> page to find out how to cite the SEAGrid project.</h4>
 
 <ul style="line-height:1.6em;">
+        <h3> 2016 </h3>
+
+         <li> Margar, S.N., Rhyman, L., Ramasami, P., Sekar, N. &nbsp;<strong>
+Fluorescent difluoroboron-curcumin analogs: An investigation of the electronic structures and photophysical properties </strong>&nbsp;<em> (2016) Spectrochimica Acta - Part A: Molecular and Biomolecular Spectroscopy, 152, art. no. 13963, pp. 241-251.</em></li>
+         <li> Jeilani, Y.A., Li, H., Harruna, I.I., Alhooshani, K.R., Al-Saadi, A.A.&nbsp;<strong>
+Collision induced dissociations of non-derivatized and trimethylsilyl-derivatized estradiols: Similarities in fragmentation patterns  </strong>&nbsp; <em> (2016) Journal of Mass Spectrometry, 50 (2), pp. 308-315. </em></li>
+
+        <li> Kodi Ramanah, D., Surajbali, P., Rhyman, L., Alswaidan, I.A., Fun, H.-K., Somanah, R., Ramasami, P. &nbsp;<strong>
+Ab initio studies on cyanoacetylenes of astrochemical interest: [Y(CC)CN, y C<inf>2</inf>H<inf>5</inf>, C<inf>3</inf>H<inf>7</inf>, C<inf>4</inf>H<inf>9</inf>, F, Cl, Br and CN]</strong>&nbsp;<em> (2016) New Astronomy, 42, pp. 42-48.</em></li>
+
         <h3> 2015 </h3>
         <li> N. Seeburrun, I. A. Alswaidan, H.-K. Fun, E. F. Archibong and P. Ramasami &nbsp;<strong> 
            Probing the structural and electronic properties of doped gallium oxide and sulfide, M(GaX2)2 where M = alkali or coinage metal; X = O, S
