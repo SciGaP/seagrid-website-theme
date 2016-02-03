@@ -8,7 +8,8 @@
 
 <ul style="line-height:1.6em;">
         <h3> 2016 </h3>
-
+         <li> Bach, R. D. &nbsp;<strong> The DMDO Hydroxylation of Hydrocarbons via the Oxygen Rebound Mechanism </strong>&nbsp;
+	   <em> J. Phys. Chem. A 2016, XXX, XXX−XXX, DOI: 10.1021/acs.jpca.5b12086 </em></li>
          <li> Margar, S.N., Rhyman, L., Ramasami, P., Sekar, N. &nbsp;<strong>
 Fluorescent difluoroboron-curcumin analogs: An investigation of the electronic structures and photophysical properties </strong>&nbsp;<em> (2016) Spectrochimica Acta - Part A: Molecular and Biomolecular Spectroscopy, 152, art. no. 13963, pp. 241-251.</em></li>
          <li> Jeilani, Y.A., Li, H., Harruna, I.I., Alhooshani, K.R., Al-Saadi, A.A.&nbsp;<strong>
