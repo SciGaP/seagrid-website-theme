@@ -5,7 +5,7 @@
 				<span class="glyphicon glyphicon-envelope" style="font-size:6em;"></span>
 			</div>
 			<h3 class="col-md-12">
-			You can contact SEAGrid by sending a mail to <a href="mail:to:sgg@iu.edu">sgg@iu.edu</a>
+			You can contact SEAGrid by sending a mail to <a href="mail:to: sgrid@scigap.atlassian.net">SEAGrid E-mail</a>
 			</h3>
 			<br/><br/>
 			Or 
@@ -14,7 +14,7 @@
 				<span class="glyphicon glyphicon-edit" style="font-size:6em;"></span>
 			</div>
 			<h3 class="col-md-12">
-				You can create a <span id="serviceDeskHelp">JIRA ticket</span> by signing in <a href="http://scigap.atlassian.net" target="_blank">here</a>.
+				You can create a <span id="serviceDeskHelp">JIRA ticket</span> by signing in <a href="https://scigap.atlassian.net/servicedesk/customer/portal/7" target="_blank">here</a>.
 			</h3>
 		</div>
 	</div>
