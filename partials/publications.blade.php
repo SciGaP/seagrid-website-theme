@@ -8,8 +8,8 @@
 
 <ul style="line-height:1.6em;">
         <h3> 2016 </h3>
-         <li> Hanusha Bhakhoa, Dr. Lydia Rhyman, Dr. Edmond P. F. Lee, Prof. Ponnadurai Ramasami, Prof. John M. Dyke &nbsp;<strong> </strong>&nbsp;
-          Can Cyclen Bind Alkali Metal Azides? A DFT Study as a Precursor to Synthesis<em> Chem. Eur. J.. doi:10.1002/chem.201504607</em></li>
+         <li> Hanusha Bhakhoa, Dr. Lydia Rhyman, Dr. Edmond P. F. Lee, Prof. Ponnadurai Ramasami, Prof. John M. Dyke &nbsp;<strong> 
+          Can Cyclen Bind Alkali Metal Azides? A DFT Study as a Precursor to Synthesis</strong>&nbsp; <em> Chem. Eur. J.. doi:10.1002/chem.201504607</em></li>
          <li> Laloo, J. Z. A., Rhyman, L., Ramasami, P., Bickelhaupt, F. M. and de Cózar, A. &nbsp;<strong> (2016), Ion-Pair SN2 Substitution: Activation Strain Analyses of Counter-Ion and Solvent Effects.</strong>&nbsp; <em> Chem. Eur. J.. doi:10.1002/chem.201504456</em></li>
          <li> Kaman Singha, , , Bhuwan Chandraa, Lydia Rhymanb, Ponnadurai Ramasami, &nbsp;<strong> Effective adsorption of pyridine (Py)—onto mesoporous silica derived from de-oiled mustard cake (DOMC): Experimental and theoretical study </strong>&nbsp;<em> Journal of Environmental Chemical Engineering
 Volume 4, Issue 1, March 2016, Pages 1383–1392</em></li>
