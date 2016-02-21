@@ -8,6 +8,9 @@
 
 <ul style="line-height:1.6em;">
         <h3> 2016 </h3>
+         <li> Reza Takjoo , Ponnadurai Ramasami , Joel T. Mague , Zohreh Hasani , Lydia Rhyman, &nbsp;<strong>
+          Dioxidomolybdenum(VI) complexes of allyl N’-2-hydroxy-3-methoxybenzylidenecarbamohydrazonothioate: Synthesis, spectral and theoretical investigations</strong>&nbsp; <em> Journal of Coordination Chemistry, 2016, 0,ja, 1-20, doi:10.1080/00958972.2016.1143934 </em> </li>
+
          <li> Hanusha Bhakhoa, Dr. Lydia Rhyman, Dr. Edmond P. F. Lee, Prof. Ponnadurai Ramasami, Prof. John M. Dyke, &nbsp;<strong> 
           Can Cyclen Bind Alkali Metal Azides? A DFT Study as a Precursor to Synthesis</strong>&nbsp; <em> Chem. Eur. J.. doi:10.1002/chem.201504607</em></li>
          <li> Laloo, J. Z. A., Rhyman, L., Ramasami, P., Bickelhaupt, F. M. and de Cózar, A. &nbsp;<strong> (2016), Ion-Pair SN2 Substitution: Activation Strain Analyses of Counter-Ion and Solvent Effects.</strong>&nbsp; <em> Chem. Eur. J.. doi:10.1002/chem.201504456</em></li>
@@ -23,6 +26,10 @@ Collision induced dissociations of non-derivatized and trimethylsilyl-derivatize
         <li> Kodi Ramanah, D., Surajbali, P., Rhyman, L., Alswaidan, I.A., Fun, H.-K., Somanah, R., Ramasami, P. &nbsp;<strong>
 Ab initio studies on cyanoacetylenes of astrochemical interest: [Y(CC)CN, y C<inf>2</inf>H<inf>5</inf>, C<inf>3</inf>H<inf>7</inf>, C<inf>4</inf>H<inf>9</inf>, F, Cl, Br and CN]</strong>&nbsp;<em> (2016) New Astronomy, 42, pp. 42-48.</em></li>
 
+        <li> Sachin N. Margar, Lydia Rhyman, Ponnadurai Ramasami, Nagaiyan Sekar, &nbsp;<strong>
+        Fluorescent difluoroboron-curcumin analogs: An investigation of the electronic structures
+         and photophysical properties</strong>&nbsp; <em> Spectrochimica Acta Part A: Molecular
+         and Biomolecular Spectroscopy 152 (2016) 241–251</em></li>
         <h3> 2015 </h3>
         <li> N. Seeburrun, I. A. Alswaidan, H.-K. Fun, E. F. Archibong and P. Ramasami &nbsp;<strong> 
            Probing the structural and electronic properties of doped gallium oxide and sulfide, M(GaX2)2 where M = alkali or coinage metal; X = O, S
@@ -39,11 +46,6 @@ Ab initio studies on cyanoacetylenes of astrochemical interest: [Y(CC)CN, y C<in
          Publishing and consuming GLUE v2.0 resource information in XSEDE. </strong> &nbsp; <em> In Proceedings of the 2015
           XSEDE Conference: Scientific Advancements Enabled by Enhanced Cyberinfrastructure (XSEDE '15).
            ACM, New York, NY, USA, , Article 25 ,http://doi.acm.org/10.1145/2792745.2792770 </em></li>
-        
-        <li> Sachin N. Margar, Lydia Rhyman, Ponnadurai Ramasami, Nagaiyan Sekar, &nbsp;<strong>
-        Fluorescent difluoroboron-curcumin analogs: An investigation of the electronic structures
-         and photophysical properties</strong>&nbsp; <em> Spectrochimica Acta Part A: Molecular 
-         and Biomolecular Spectroscopy 152 (2016) 241–251</em></li>
         
          <li> Yassin A. Jeilani, Chelesa Fearcea and Minh Tho Nguyenb &nbsp;<strong> Acetylene as 
          an essential building block for prebiotic formation of pyrimidine bases on Titan </strong>&nbsp; <em>
