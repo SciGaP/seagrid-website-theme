@@ -25,7 +25,8 @@
                         <a href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="https://seagrid.org/jnlp-prod/gridchem.jnlp">Download Desktop App</a>
+
+                        <a class="page-scroll" href="{{URL::to('/')}}/../themes/{{Session::get('theme')}}/assets/app/Seagrid_Mac_Desktop_Client.dmg">Download Desktop App for Mac</a>
                     </li>
                 <!--
                     <li>
