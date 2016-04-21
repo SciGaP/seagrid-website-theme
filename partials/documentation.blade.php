@@ -18,6 +18,7 @@
      <a target="_blank" href="https://scigap.atlassian.net/wiki/display/SEAGrid/SEAGrid+Documentation"> <h2>SEAGrid Wiki </h2> </a>
 </div>
 
+   <a target="_blak" href="https://scigap.atlassian.net/wiki/display/SEAGrid/XSEDE+Workshop-Albany+State+University+2016"> <h3> XSEDE Workshop at Albany State University, 22-23 April 2016 </h3></a>
     <!-- h2 class="text-center"><a target="_blank" href="https://scigap.atlassian.net/wiki/display/SEAGrid/SEAGrid+Documentation">SEAGrid Wiki</a></h2 -->
 
 </div>
