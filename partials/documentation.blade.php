@@ -14,8 +14,8 @@
     <p> Note: For production usage, we recommend using the GridChem Desktop client.</p>
 
 <div class="col-md-12 well breathing-space text-center">
-  <h2  For detailed documentation on using the GridChem production client or SEAGrid Web Portal, please visit the
-     <a target="_blank" href="https://scigap.atlassian.net/wiki/display/SEAGrid/SEAGrid+Documentation">SEAGrid Wiki</a> </h2>
+   For detailed documentation on using the GridChem production client or SEAGrid Web Portal, please visit the
+     <a target="_blank" href="https://scigap.atlassian.net/wiki/display/SEAGrid/SEAGrid+Documentation"> <h2>SEAGrid Wiki </h2> </a>
 </div>
 
     <!-- h2 class="text-center"><a target="_blank" href="https://scigap.atlassian.net/wiki/display/SEAGrid/SEAGrid+Documentation">SEAGrid Wiki</a></h2 -->
