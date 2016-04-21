@@ -1,4 +1,5 @@
 <div class="col-md-12 hero-unit">
+        <a target="_blank" href="https://scigap.atlassian.net/wiki/display/SEAGrid/XSEDE+Workshop-Albany+State+University+2016"> <h3> XSEDE Wprkshop At Albany State University, 22-23 April, 2016 </h3> </a>
 	<!--
 	<h1>Hero Image</h1>
 	<h2>This is a simple hero unit, a simple jumbotron-style component for calling extra 7
