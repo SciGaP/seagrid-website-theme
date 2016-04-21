@@ -1,5 +1,5 @@
-<div class="col-md-12 text-center breathing-space seagrid-info">
-        <a target="_blank" href="https://scigap.atlassian.net/wiki/display/SEAGrid/XSEDE+Workshop-Albany+State+University+2016"> <h3> XSEDE Wprkshop At Albany State University, 22-23 April, 2016 </h3> </a>
+<div class="col-md-8 text-center breathing-space seagrid-info">
+        <a target="_blank" href="https://scigap.atlassian.net/wiki/display/SEAGrid/XSEDE+Workshop-Albany+State+University+2016"> <h3> XSEDE Workshop At Albany State University, 22-23 April, 2016 </h3> </a>
 </div>
 <div class="col-md-12 hero-unit">
 	<!--
