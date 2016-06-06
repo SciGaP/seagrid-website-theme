@@ -45,6 +45,9 @@
                         <a class="page-scroll" href="{{URL::to('/')}}/pages/publications">Publications</a>
                     </li>
                     <li>
+                        <a class="page-scroll" target="_blank" href="https://data.seagrid.org">SEAGrid Data</a>
+                    </li>
+                    <li>
                         <a class="page-scroll" href="{{URL::to('/')}}/pages/about">About</a>
                     </li>
                     <li>
