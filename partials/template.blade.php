@@ -1,5 +1,5 @@
 <div class="col-md-12 text-center well">
-        <a target="_blank" href="https://scigap.atlassian.net/wiki/display/SEAGrid/XSEDE+Workshop-Albany+State+University+2016"> <h4> XSEDE Workshop At Albany State University, 22-23 April, 2016 </h4> </a>
+        <a target="_blank" href="https://scigap.atlassian.net/wiki/display/SEAGrid/Tutorials"> <h4> XSEDE 2016 Tutorial, 18 July, 2016 </h4> </a>
 </div>
 <div class="col-md-12 hero-unit">
 	<!--
