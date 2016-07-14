@@ -47,7 +47,7 @@
 	</div>
 
 	<div class="col-md-12 well">
-		For a full list of  current SEAGrid supported applications and computing resources, see <a href="#">here</a>.
+		For a full list of  current SEAGrid supported applications and computing resources, see <a href=""://docs.google.com/spreadsheets/d/1pcljOvkZRwr4h3kr7gmPMbd6SxZ048G_S2CbA6wgIpI/edit#gid=0>SEAGrid Applications</a>.
 	</div>
 </div>
 
