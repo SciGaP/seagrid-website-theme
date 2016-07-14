@@ -24,9 +24,16 @@
                     <li class="hidden">
                         <a href="#page-top"></a>
                     </li>
-                    <li>
-
-                        <a class="page-scroll" href="{{URL::to('/')}}/../themes/{{Session::get('theme')}}/assets/app/Seagrid_Mac_Desktop_Client.dmg">Download Desktop App for Mac</a>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Download <span class="caret"></span></a>
+                        <ul class="dropdown-menu" style="background:#000;">
+                            <li>
+                            <a class="page-scroll" href="{{URL::to('/')}}/../themes/{{Session::get('theme')}}/assets/app/Seagrid_Mac_Desktop_Client.dmg">Desktop App for Mac</a>
+                            </li>
+                            <li>
+                            <a class="page-scroll" href="{{URL::to('/')}}/../themes/{{Session::get('theme')}}/assets/app/SEAGrid_Windows_Desktop_Client.exe">Download App for Windows</a>
+                            </li>
+                        </ul>
                     </li>
                 <!--
                     <li>

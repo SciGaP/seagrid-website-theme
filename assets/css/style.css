@@ -1,3 +1,7 @@
+.theme-header{
+    z-index:1001;
+}
+
 body{
 	background: #fff !important;
 }
