@@ -1,3 +1,6 @@
+<div class="col-md-12 text-center well">
+        <a target="_blank" href="https://scigap.atlassian.net/wiki/display/SEAGrid/Tutorials"> <h4> XSEDE 2016 Tutorial, 18 July, 2016 </h4> </a>
+</div>
 <div class="col-md-12 hero-unit">
 	<!--
 	<h1>Hero Image</h1>
@@ -44,7 +47,7 @@
 	</div>
 
 	<div class="col-md-12 well">
-		For a full list of  current SEAGrid supported applications and computing resources, see <a href="#">here</a>.
+		For a full list of  current SEAGrid supported applications and computing resources, see <a href="https://docs.google.com/spreadsheets/d/1pcljOvkZRwr4h3kr7gmPMbd6SxZ048G_S2CbA6wgIpI/edit#gid=0">SEAGrid Applications</a>.
 	</div>
 </div>
 

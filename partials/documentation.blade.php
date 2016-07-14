@@ -14,11 +14,12 @@
     <p> Note: For production usage, we recommend using the GridChem Desktop client.</p>
 
 <div class="col-md-12 well breathing-space text-center">
-    For detailed documentation on using the GridChem production client or Alpha preview of SEAGrid Web Portal, please visit the
-    <a target="_blank" href="https://scigap.atlassian.net/wiki/display/SEAGrid/SEAGrid+Documentation">SEAGrid Wiki</a>.
+   For detailed documentation on using the GridChem production client or SEAGrid Web Portal, please visit the
+     <a target="_blank" href="https://scigap.atlassian.net/wiki/display/SEAGrid/SEAGrid+Documentation"> <h2>SEAGrid Wiki </h2> </a>
 </div>
 
-    <h2 class="text-center"><a target="_blank" href="https://scigap.atlassian.net/wiki/display/SEAGrid/SEAGrid+Documentation">SEAGrid Wiki</a></h2>
+   <a target="_blak" href="https://scigap.atlassian.net/wiki/display/SEAGrid/Tutorials"> <h3> XSEDE 2016 Tutorial, 18 July 2016 </h3></a>
+    <!-- h2 class="text-center"><a target="_blank" href="https://scigap.atlassian.net/wiki/display/SEAGrid/SEAGrid+Documentation">SEAGrid Wiki</a></h2 -->
 
 </div>
 
