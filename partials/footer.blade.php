@@ -10,7 +10,7 @@
     </div>
 	<div class="col-md-2">
     	<a href="http://airavata.apache.org/" target="_blank">
-		<img width="100%" src="{{URL::to('/')}}/themes/{{Session::get('theme')}}/assets/img/powered-by-apache-airavata.png">
+		<img width="100%" src="{{URL::to('/')}}/themes/{{Session::get('theme')}}/assets/img/powered-by-airavata-transparent.png">
 		</a>
 	</div>
     <div class="col-md-2">
