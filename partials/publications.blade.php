@@ -8,18 +8,22 @@
 
 <ul style="line-height:1.6em;">
         <h3> 2016 </h3>
-         <li> Reza Takjoo , Ponnadurai Ramasami , Joel T. Mague , Zohreh Hasani , Lydia Rhyman, &nbsp;<strong>
-          Dioxidomolybdenum(VI) complexes of allyl N’-2-hydroxy-3-methoxybenzylidenecarbamohydrazonothioate: Synthesis, spectral and theoretical investigations</strong>&nbsp; <em> Journal of Coordination Chemistry, 2016, 0,ja, 1-20, doi:10.1080/00958972.2016.1143934 </em> </li>
+        <li> L.N. Obasi, G.U. Kaior, L. Rhyman, Ibrahim A. Alswaidan, Hoong-Kun Fun, P. Ramasami, &nbsp;<strong> Synthesis, characterization, antimicrobial screening and computational studies of 4-[3-(4-methoxy-phenyl)-allylideneamino]-1,5-dimethyl-2-phenyl-1,2-dihydro-pyrazol-3-one </strong>&nbsp; <em> Journal of Molecular Structure Volume 1120, 15 September 2016, Pages 180–186</em> </li>
+
+        <li> Manoj M. Jadhav, Lydia Rhyman, Ponnadurai Ramasami , Nagaiyan Sekar, &nbsp;<strong> Unfolding ESIPT in Bis-2,5-(2-benzoxazolyl) Hydroquinone and 2,5-Bis(benzo[d]oxazol-2-yl)-4-methoxyphenol: a Comprehensive Computational Approach, </strong>&nbsp; <em> Journal of Fluorescence July 2016, Volume 26, Issue 4, pp 1295-1307 </em> </li>
+         
+	<li> Dhanashree Hallooman, Mar Ríos-Gutiérrez, Lydia Rhyman, Ibrahim A. Alswaidan, Hoong-Kun Fun, Luis R. Domingo, Ponnadurai Ramasamip, &nbsp;<strong> [3+2] Cycloaddition reaction of 1H-phosphorinium-3-olate and 1-methylphosphorinium-3-olate with methyl acrylate: A DFT study</strong>&nbsp; <em> Computational and Theoretical Chemistry Volume 1087, 1 July 2016, Pages 36–47 </em> </li>  
+
+         <li> Jeilani, Yassin Aweis and Williams, Phoenix N. and Walton, Sofia and Nguyen, Minh Tho, &nbsp;<strong> Unified reaction pathways for the prebiotic formation of RNA and DNA nucleobases, </strong>&nbsp; <em> Phys. Chem. Chem. Phys., 2016, Advance Article; DOI: 10.1039/C6CP02686A </em> </li>
+         <li> Reza Takjoo , Ponnadurai Ramasami , Joel T. Mague , Zohreh Hasani , Lydia Rhyman, &nbsp;<strong> Dioxidomolybdenum(VI) complexes of allyl N’-2-hydroxy-3-methoxybenzylidenecarbamohydrazonothioate: Synthesis, spectral and theoretical investigations</strong>&nbsp; <em> Journal of Coordination Chemistry, 2016, 0,ja, 1-20, doi:10.1080/00958972.2016.1143934 </em> </li>
 
          <li> Hanusha Bhakhoa, Dr. Lydia Rhyman, Dr. Edmond P. F. Lee, Prof. Ponnadurai Ramasami, Prof. John M. Dyke, &nbsp;<strong> 
           Can Cyclen Bind Alkali Metal Azides? A DFT Study as a Precursor to Synthesis</strong>&nbsp; <em> Chem. Eur. J.. doi:10.1002/chem.201504607</em></li>
          <li> Laloo, J. Z. A., Rhyman, L., Ramasami, P., Bickelhaupt, F. M. and de Cózar, A. &nbsp;<strong> (2016), Ion-Pair SN2 Substitution: Activation Strain Analyses of Counter-Ion and Solvent Effects.</strong>&nbsp; <em> Chem. Eur. J.. doi:10.1002/chem.201504456</em></li>
          <li> Kaman Singh, Bhuwan Chandra, Lydia Rhyman, Ponnadurai Ramasami, &nbsp;<strong> Effective adsorption of pyridine (Py)—onto mesoporous silica derived from de-oiled mustard cake (DOMC): Experimental and theoretical study </strong>&nbsp;<em> Journal of Environmental Chemical Engineering
 Volume 4, Issue 1, March 2016, Pages 1383–1392</em></li>
-         <li> Bach, R. D. &nbsp;<strong> The DMDO Hydroxylation of Hydrocarbons via the Oxygen Rebound Mechanism </strong>&nbsp;
-	   <em> J. Phys. Chem. A 2016, XXX, XXX−XXX, DOI: 10.1021/acs.jpca.5b12086 </em></li>
-         <li> Margar, S.N., Rhyman, L., Ramasami, P., Sekar, N. &nbsp;<strong>
-Fluorescent difluoroboron-curcumin analogs: An investigation of the electronic structures and photophysical properties </strong>&nbsp;<em> (2016) Spectrochimica Acta - Part A: Molecular and Biomolecular Spectroscopy, 152, art. no. 13963, pp. 241-251.</em></li>
+         <li> Bach, R. D. &nbsp;<strong>The DMDO Hydroxylation of Hydrocarbons via the Oxygen Rebound Mechanism </strong>&nbsp;
+	   <em> J. Phys. Chem. A 2016, 120 (5), pp 840–850, DOI: 10.1021/acs.jpca.5b12086 </em></li>
          <li> Jeilani, Y.A., Li, H., Harruna, I.I., Alhooshani, K.R., Al-Saadi, A.A.&nbsp;<strong>
 Collision induced dissociations of non-derivatized and trimethylsilyl-derivatized estradiols: Similarities in fragmentation patterns  </strong>&nbsp; <em> (2016) Journal of Mass Spectrometry, 50 (2), pp. 308-315. </em></li>
 
@@ -30,7 +34,11 @@ Ab initio studies on cyanoacetylenes of astrochemical interest: [Y(CC)CN, y C<in
         Fluorescent difluoroboron-curcumin analogs: An investigation of the electronic structures
          and photophysical properties</strong>&nbsp; <em> Spectrochimica Acta Part A: Molecular
          and Biomolecular Spectroscopy 152 (2016) 241–251</em></li>
+
+
         <h3> 2015 </h3>
+
+        <li> Gör, K., Tursun, M., Keşan, G. Güneş Süheyla Kürkçüoğlu, Lydia Rhyman, Cemal Parlak, Ponnadurai Ramasami, Okan Zafer Yeşilel, Orhan Büyükgüngör &nbsp;<strong> Novel Cyanide-Bridged Heterometallic Two-Dimensional Complex of 3-Methylpyridazine: Synthesis, Crystallographical, Vibrational, Thermal and DFT Studies, </strong>&nbsp; <em> J Inorg Organomet Polym (2015) 25: 1205. doi:10.1007/s10904-015-0229-y</em></li>
         <li> N. Seeburrun, I. A. Alswaidan, H.-K. Fun, E. F. Archibong and P. Ramasami &nbsp;<strong> 
            Probing the structural and electronic properties of doped gallium oxide and sulfide, M(GaX2)2 where M = alkali or coinage metal; X = O, S
            </strong>&nbsp; <em> RSC Adv., 2015, 5, 106141 </em></li>
