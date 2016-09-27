@@ -8,6 +8,8 @@
 
 <ul style="line-height:1.6em;">
         <h3> 2016 </h3>
+        <li> John J. Biswakarma, Vlad Ciocoi, and Robert Q. Topper , &nbsp;<strong> Energetics, Thermodynamics and Hydrogen
+Bonding Diversity in Ammonium Halide Clusters</strong>&nbsp; <em> J. Phys. Chem. A, Just Accepted Manuscript • DOI: 10.1021/acs.jpca.6b06788  Publication Date (Web): 22 Sep 2016</em> </li> 
         <li> L.N. Obasi, G.U. Kaior, L. Rhyman, Ibrahim A. Alswaidan, Hoong-Kun Fun, P. Ramasami, &nbsp;<strong> Synthesis, characterization, antimicrobial screening and computational studies of 4-[3-(4-methoxy-phenyl)-allylideneamino]-1,5-dimethyl-2-phenyl-1,2-dihydro-pyrazol-3-one </strong>&nbsp; <em> Journal of Molecular Structure Volume 1120, 15 September 2016, Pages 180–186</em> </li>
 
         <li> Manoj M. Jadhav, Lydia Rhyman, Ponnadurai Ramasami , Nagaiyan Sekar, &nbsp;<strong> Unfolding ESIPT in Bis-2,5-(2-benzoxazolyl) Hydroquinone and 2,5-Bis(benzo[d]oxazol-2-yl)-4-methoxyphenol: a Comprehensive Computational Approach, </strong>&nbsp; <em> Journal of Fluorescence July 2016, Volume 26, Issue 4, pp 1295-1307 </em> </li>
