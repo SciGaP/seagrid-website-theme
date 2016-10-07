@@ -33,6 +33,9 @@
                             <li>
                             <a class="page-scroll" href="{{URL::to('/')}}/../themes/{{Session::get('theme')}}/assets/app/SEAGrid_Windows_Desktop_Client.exe">Download App for Windows</a>
                             </li>
+                            <li>
+                            <a class="page-scroll" href="{{URL::to('/')}}/../themes/{{Session::get('theme')}}/assets/app/SDC_Linux.tar">Download App for Linux</a>
+                            </li>
                         </ul>
                     </li>
                 <!--
