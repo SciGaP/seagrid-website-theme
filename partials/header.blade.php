@@ -55,7 +55,7 @@
                         <a class="page-scroll" href="{{URL::to('/')}}/pages/publications">Publications</a>
                     </li>
                     <li>
-                        <a class="page-scroll" target="_blank" href="https://data.seagrid.org">SEAGrid Data</a>
+                        <a class="page-scroll" target="_blank" href="https://data.seagrid.org/login.php?code=<?php echo Session::get('authz-token')->accessToken ?>">SEAGrid Data</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="{{URL::to('/')}}/pages/about">About</a>
