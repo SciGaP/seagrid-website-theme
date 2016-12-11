@@ -14,7 +14,7 @@
 	<div class="col-md-9">
 		<br/>
 		<p>
-			The SEAGrid science gateway is led by Dr. Sudhakar Pamidighantam and powered by the NSF-funded <a target="_blank" href="http://scigap.org">SciGaP</a> project. This gateway is an agile platform suitable for both research and teaching in science and engineering disciplines. 	
+			The SEAGrid science gateway is led by Dr. Sudhakar Pamidighantam and powered by the NSF-funded <a target="_blank" href="https://scigap.org">SciGaP</a> project. This gateway is an agile platform suitable for both research and teaching in science and engineering disciplines. 	
 		</p>
 		<p>
 		<span style="font-weight: bold;">Bio: </span> 
