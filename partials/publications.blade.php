@@ -7,6 +7,10 @@
 <h4>SEAGrid has enabled the following publications. See the <a href="{{URL::to('/')}}/pages/about">About</a> page to find out how to cite the SEAGrid project.</h4>
 
 <ul style="line-height:1.6em;">
+        <h3> 2017 </h3>
+        <li> Mphahlele, Malose Jack and Maluleka, Marole Maria and Rhyman, Lydia and Ramasami, Ponnadurai and Mampa, Richard Mokome,&nbsp;<strong> 
+Spectroscopic, DFT, and XRD Studies of Hydrogen Bonds in N-Unsubstituted 2-Aminobenzamides, </strong>&nbsp; <em>Molecules, 22, 2017, 1, 83.</em> </li>
+        
         <h3> 2016 </h3>
         <li> John J. Biswakarma, Vlad Ciocoi, and Robert Q. Topper , &nbsp;<strong> Energetics, Thermodynamics and Hydrogen
 Bonding Diversity in Ammonium Halide Clusters</strong>&nbsp; <em> J. Phys. Chem. A, Just Accepted Manuscript • DOI: 10.1021/acs.jpca.6b06788  Publication Date (Web): 22 Sep 2016</em> </li> 
