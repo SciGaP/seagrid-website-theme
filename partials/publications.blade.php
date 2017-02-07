@@ -8,6 +8,11 @@
 
 <ul style="line-height:1.6em;">
         <h3> 2017 </h3>
+        <li> Katariya, S., Rhyman, L., Alswaidan, I.A. et al. &nbsp;<strong> Triphenylamine-Based Fluorescent Styryl Dyes: DFT, TD-DFT and Non-Linear Optical Property Study
+</strong>&nbsp; <em>  J Fluoresc (2017). doi:10.1007/s10895-017-2034-1 </em> </li>
+
+        <li> Hung Tan Pham, Nguyen Minh Tam, Yassin A. Jeilani, Minh Tho Nguyen,&nbsp;<strong>  Structural evolution and bonding of phosphorus-doped silicon clusters SinPm-/0/+ with n = 1-10, m = 1,2, </strong>&nbsp; <em> Computational and Theoretical Chemistry, Available online 3 February 2017, ISSN 2210-271X, http://dx.doi.org/10.1016/j.comptc.2017.01.032. </em></li>
+
         <li> Mphahlele, Malose Jack and Maluleka, Marole Maria and Rhyman, Lydia and Ramasami, Ponnadurai and Mampa, Richard Mokome,&nbsp;<strong> 
 Spectroscopic, DFT, and XRD Studies of Hydrogen Bonds in N-Unsubstituted 2-Aminobenzamides, </strong>&nbsp; <em>Molecules, 22, 2017, 1, 83.</em> </li>
         
