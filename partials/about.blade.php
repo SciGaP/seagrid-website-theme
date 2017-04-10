@@ -18,19 +18,19 @@
 		</p>
 		<p>
 		<span style="font-weight: bold;">Bio: </span> 
-			Dr. Pamidighantam is a senior member of the <a href="http://rt.uits.iu.edu/visualization/gateways/" target="_blank">Science Gateways Group</a> in Research Technologies division at Indiana University. Dr. Pamidighantam had been a senior research scientist at NCSA at the University of Illinois at Urbana-Champaign supporting computational chemistry and science gateways development in support of molecular sciences faculty.  He serves XSEDE organization as an <a href="https://www.xsede.org/ecss" target="_blank">ECSS</a> consultant and conducts research in computational chemistry.  See <a target="_blank" href="https://scholar.google.com/citations?user=xlNkBCQAAAAJ&hl=en&oi=ao">here</a> for Dr. Pamidighantam’s Google Scholar profile.
+			Dr. Pamidighantam is a senior member of the <a href="https://sgrc.iu.edu" target="_blank">Science Gateways Research Center</a> at Indiana University. Dr. Pamidighantam had been a senior research scientist at NCSA at the University of Illinois at Urbana-Champaign supporting computational chemistry and science gateways development in support of molecular sciences faculty.  He serves XSEDE organization as an <a href="https://www.xsede.org/ecss" target="_blank">ECSS</a> consultant and conducts research in computational chemistry.  See <a target="_blank" href="https://scholar.google.com/citations?user=xlNkBCQAAAAJ&hl=en&oi=ao">here</a> for Dr. Pamidighantam’s Google Scholar profile.
 		<p>
 			<strong>Usage:</strong> 
 			SEAGrid has been in operation since 2005 and serves more than 600 scientists and students under 320 projects. Over this time, SEAGrid has supported and enabled more than 120 publications, 50 conference presentations, at least 13 graduate MS and Ph.D. theses. Since April 2015, SEAGrid has served close to 11M XD SUs to support almost 25,000 jobs. 
 		</p>	
 		<p>
 			<strong>Support:</strong>
-			 SEAGrid currently supported by NSF Grant <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1339774" target="_blank">#1339774</a>.  Previous NSF support includes awards The SEAGrid  gateway  is a production community cyberinfrastructure resource  developed under the NSF Middleware Initiative (NMI: Deployment) grant  and supported by additional advanced support through XSEDE ASTA and ECSS program activities. An OGCE [5] project funded by NSF enabled the SEAGrid gateway to adapt sustainable middleware. 		
+			 SEAGrid currently supported by NSF Grant <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1339774" target="_blank">#1339774</a>.  Previous NSF support includes awards The SEAGrid  gateway  is a production community cyberinfrastructure resource  developed under the NSF Middleware Initiative (NMI: Deployment) grant  and supported by additional advanced support through XSEDE ASTA and ECSS program activities. An OGCE [5] project funded by NSF enabled the SEAGrid gateway to adapt sustainable middleware.
 		</p>
 		<div class="cite-area breathing-space">
 			<h3>Cite:</h3>
 			<h4>Citing SEAGrid in academic papers helps us show impact. If you use SEAGrid in your research please help by including the following citation information and acknowledgement in your paper.</h4>
-			<p>SEAGrid (<a href="http://www.seagrid.org">http:www.seagrid.org</a>)[*] is acknowledged for computational resources and services for the selected results used in this publication. </p>
+			<p>SEAGrid (<a href="https://seagrid.org">http:www.seagrid.org</a>)[*] is acknowledged for computational resources and services for the selected results used in this publication. </p>
 			<p> * (a) S. Pamidighantama, S Nakandala, E. Abeysinghe, C Wimalasena, S. Rathnayakae, S. Marru, M. Pierce, Community Science Exemplars in SEAGrid Science Gateway: Apache Airavata Based Implementation of Advanced Infrastructure, Procedia Computer Science Volume 80, 2016, Pages 1927–1939 </p>
 			<p> (b) N. Shen, Y. Fan, S. Pamidighantam, E-Science Infrastructures for Molecular Modeling and Parametrization, Journal of Computational Science 5 (2014), pp. 576-589; DOI information: 10.1016/j.jocs.2014.01.005</p>
 			<p> (c) R. Dooley, K. Milfeld, C. Guiang, S. Pamidighantam, G. Allen, From Proposal to Production: Lessons Learned Developing the Computational Chemistry Grid Cyberinfrastructure, Journal of Grid Computing, 2006, 4, 195-208. </p>

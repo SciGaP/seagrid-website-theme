@@ -1,5 +1,5 @@
 <div class="col-md-12 text-center well">
-        <a target="_blank" href="http://www.iccs-meeting.org/"> <h4> ICCS 2017 International Conference on Computational Science </h4> </a>
+        <a target="_blank" href="https://www.iccs-meeting.org/"> <h4> ICCS 2017 International Conference on Computational Science </h4> </a>
 </div>
 <div class="col-md-12 hero-unit">
 	<!--
