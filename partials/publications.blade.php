@@ -8,20 +8,21 @@
 
 <ul style="line-height:1.6em;">
         <h3> 2017 </h3>
+
         <li> Najaah Toorabally, Lydia Rhyman, Ibrahim A. Alswaidan, Cemal Parlak, Mohamed I. Elzagheid, Veikko Uahengo, Radhakrishna Somanah, Ponnadurai Ramasami, &nbsp;<strong> Structural and spectroscopic parameters of CnF2+ (n = 1-5): Insights using MP2/CBS method, </strong>&nbsp; <em> Journal of Fluorine Chemistry, Available online 16 June 2017, ISSN 0022-1139, https://doi.org/10.1016/j.jfluchem.2017.06.008.</em></li>
 
          <li> N Benyza, A Messai, A Hamdaoui, T Lanez, K Sayin &nbsp;<strong> Synthesis, quantum chemical computations and x-ray crystallographic studies of a new complex based of manganese (+II) </strong>&nbsp; <em> Journal of Fundamental and Applied Sciences 9.2 (2017): 770-789 </em></li>
 
-    
-        <li> Dhanashree Hallooman, Hanusha Bhakhoa, Mar Ríos-Gutiérrez, Lydia Rhyman, Alexander A. Oliferenko, Alan R. Katritzky, Ibrahim A. Alswaidan, Mohamed I. Elzagheid, Luis R. Domingo, Ponnadurai Ramasami, &nbsp;<strong> Copper(I)-catalysed regioselective synthesis of pyrazolo[5,1-c]-1,2,4-triazoles: A DFT mechanistic study, </strong>&nbsp; <em> Tetrahedron, Available online 21 June 2017, ISSN 0040-4020, https://doi.org/10.1016/j.tet.2017.06.040.</em><li>
+        <li> Dhanashree Hallooman, Hanusha Bhakhoa, Mar Ríos-Gutiérrez, Lydia Rhyman, Alexander A. Oliferenko, Alan R. Katritzky, Ibrahim A. Alswaidan, Mohamed I. Elzagheid, Luis R. Domingo, Ponnadurai Ramasami, &nbsp;<strong> Copper(I)-catalysed regioselective synthesis of pyrazolo[5,1-c]-1,2,4-triazoles: A DFT mechanistic study, </strong>&nbsp; <em> Tetrahedron, Available online 21 June 2017, ISSN 0040-4020, https://doi.org/10.1016/j.tet.2017.06.040.</em></li>
 
         <li> Nguyen, Huyen Thi, Tran Dieu Hang, and Minh Tho Nguyen. &nbsp;<strong>  Theoretical Study of Silicon Monoxide Reactions with Ammonia and Methane.</strong>&nbsp; <em>   The Journal of Physical Chemistry A 121.5 (2017): 1032-1040.</em></li>
+
         <li> Katariya, S., Rhyman, L., Alswaidan, I.A. et al. &nbsp;<strong> Triphenylamine-Based Fluorescent Styryl Dyes: DFT, TD-DFT and Non-Linear Optical Property Study
 </strong>&nbsp; <em>  J Fluoresc (2017). doi:10.1007/s10895-017-2034-1 </em> </li>
 
         <li> Hung Tan Pham, Nguyen Minh Tam, Yassin A. Jeilani, Minh Tho Nguyen,&nbsp;<strong>  Structural evolution and bonding of phosphorus-doped silicon clusters SinPm-/0/+ with n = 1-10, m = 1,2, </strong>&nbsp; <em> Computational and Theoretical Chemistry, Available online 3 February 2017, ISSN 2210-271X, http://dx.doi.org/10.1016/j.comptc.2017.01.032. </em></li>
-        <li> Katariya, S., Rhyman, L., Alswaidan, I.A. Ponnadurai RamasamiEmail authorNagaiyan Sekar, &nbsp;<strong> Triphenylamine-Based Fluorescent Styryl Dyes: DFT, TD-DFT and Non-Linear Optical Property Study </strong>&nbsp; <em> J Fluoresc (2017) 27: 993. doi:10.1007/s10895-017-2034-1 </em></li>
 
+        <li> Katariya, S., Rhyman, L., Alswaidan, I.A. Ponnadurai RamasamiEmail authorNagaiyan Sekar, &nbsp;<strong> Triphenylamine-Based Fluorescent Styryl Dyes: DFT, TD-DFT and Non-Linear Optical Property Study </strong>&nbsp; <em> J Fluoresc (2017) 27: 993. doi:10.1007/s10895-017-2034-1 </em></li>
 
         <li> Mphahlele, Malose Jack and Maluleka, Marole Maria and Rhyman, Lydia and Ramasami, Ponnadurai and Mampa, Richard Mokome,&nbsp;<strong> 
 Spectroscopic, DFT, and XRD Studies of Hydrogen Bonds in N-Unsubstituted 2-Aminobenzamides, </strong>&nbsp; <em>Molecules, 22, 2017, 1, 83.</em> </li>
