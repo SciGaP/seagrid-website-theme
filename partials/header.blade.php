@@ -55,7 +55,7 @@
                         <a class="page-scroll" href="{{URL::to('/')}}/pages/publications">Publications</a>
                     </li>
                     <li>
-                        @if(Session::has(authz-token))
+                        @if(Session::has('authz-token'))
                             <a class="page-scroll" target="_blank" href="https://data.seagrid.org/login.php?code={{Session::get('authz-token')->accessToken}}">SEAGrid Data</a>
                         @else
                             <a class="page-scroll" target="_blank" href="https://data.seagrid.org/login.php">SEAGrid Data</a>
