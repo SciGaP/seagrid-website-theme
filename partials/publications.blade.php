@@ -8,6 +8,7 @@
 
 <ul style="line-height:1.6em;">
         <h3> 2017 </h3>
+        <li> Ramjauny, S. U. A.  Alswaidan, I. A. Jaufeerally-Safee, N. B. Rhyman, L.  Ramasami, P.&nbsp;<strong> Exploring the potential energy surface of novel [H, S, Se, Br] species: a high level first principle study"</strong>&nbsp; <em> Journal of Molecular Modeling, 23 (8), 232, 2017, doi="10.1007/s00894-017-3410-0"</em></li>
 
         <li> Najaah Toorabally, Lydia Rhyman, Ibrahim A. Alswaidan, Cemal Parlak, Mohamed I. Elzagheid, Veikko Uahengo, Radhakrishna Somanah, Ponnadurai Ramasami, &nbsp;<strong> Structural and spectroscopic parameters of CnF2+ (n = 1-5): Insights using MP2/CBS method, </strong>&nbsp; <em> Journal of Fluorine Chemistry, Available online 16 June 2017, ISSN 0022-1139, https://doi.org/10.1016/j.jfluchem.2017.06.008.</em></li>
 
