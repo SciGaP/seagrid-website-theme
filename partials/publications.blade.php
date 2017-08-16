@@ -8,6 +8,9 @@
 
 <ul style="line-height:1.6em;">
         <h3> 2017 </h3>
+        <li> Daniel Dumett Torres, Progna Banerjee, Sudhakar Pamidighantam, and Prashant K. Jain, &nbsp;<strong> A Non-Natural Wurtzite Polymorph of HgSe: A Potential 3D Topological Insulator
+</strong>&nbsp; <em> Chemistry of Materials 2017 29 (15), 6356-6366 DOI: 10.1021/acs.chemmater.7b01674 </em></li>
+
         <li> N.L. Obasi, G.U. Kaior, A. Ibezimb, Alfred E. Ochonogor, Lydia Rhymand, Veikko Uahengo, Michael Lutter, Klaus Jurkschat, Ponnadurai Ramasami&nbsp;<strong> Synthesis, 
   characterization, antimicrobial screening and in silico studies of Schiff bases derived from trans-para-methoxycinnamaldehyde </strong>&nbsp; <em> Journal of Molecular Structure 1149, 5, 2017, 8–16,https://doi.org/10.1016/j.molstruc.2017.07.097</em></li>
 
