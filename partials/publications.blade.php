@@ -8,6 +8,9 @@
 
 <ul style="line-height:1.6em;">
         <h3> 2017 </h3>
+
+        <li> Kesete Ghebreyessus and Stefan M. Cooper, Jr. &nbsp;<strong> Photoswitchable Arylazopyrazole-Based Ruthenium(II) Arene Complexes </strong>&nbsp; <em> Organometallics 2017 36 (17), 3360-3370 DOI: 10.1021/acs.organomet.7b00493</em></li>
+
         <li> Daniel Dumett Torres, Progna Banerjee, Sudhakar Pamidighantam, and Prashant K. Jain, &nbsp;<strong> A Non-Natural Wurtzite Polymorph of HgSe: A Potential 3D Topological Insulator
 </strong>&nbsp; <em> Chemistry of Materials 2017 29 (15), 6356-6366 DOI: 10.1021/acs.chemmater.7b01674 </em></li>
 
