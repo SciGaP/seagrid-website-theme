@@ -8,6 +8,8 @@
 
 <ul style="line-height:1.6em;">
         <h3> 2017 </h3>
+   
+        <li> Santosh B. Katariya,Dinesh Patil, Lydia Rhyman, Ibrahim A.Alswaidan, Ponnadurai Ramasami, Nagaiyan Sekara,&nbsp;<strong>  Triphenylamine-based fluorescent NLO phores with ICT characteristics: Solvatochromic and theoretical study,</strong>&nbsp; <em> Journal of Molecular Structure Available online 28 August 2017, https://doi.org/10.1016/j.molstruc.2017.08.084 </em></li>
 
         <li> Kesete Ghebreyessus and Stefan M. Cooper, Jr. &nbsp;<strong> Photoswitchable Arylazopyrazole-Based Ruthenium(II) Arene Complexes </strong>&nbsp; <em> Organometallics 2017 36 (17), 3360-3370 DOI: 10.1021/acs.organomet.7b00493</em></li>
 
