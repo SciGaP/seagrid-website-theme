@@ -8,7 +8,12 @@
 
 <ul style="line-height:1.6em;">
         <h3> 2017 </h3>
-   
+
+        <li> Adeloye, Adewale O. and Mphahlele, Malose J. and Adekunle, Abolanle S. and Rhyman, Lydia and Ramasami, Ponnadurai &nbsp;<strong> Spectroscopic, Electrochemical and DFT Studies of Phosphorescent Homoleptic Cyclometalated Iridium(III) Complexes Based on Substituted 4-Fluorophenylvinyl- and 4-Methoxyphenylvinylquinolines </strong>&nbsp; <em> Materials 2017, 10(10), 1061; doi:10.3390/ma10101061 </em></li>
+
+        <li> Julius Chigozie Ezeoraha, Valentine Ossaia, Lawrence Nnamdi Obasia, , , Mohamed I. Elzagheidb, Lydia Rhymanc, d, Michael Luttere, Klaus Jurkschate, Necmi Degef, Ponnadurai Ramasamic, d&nbsp;<strong> Synthesis, characterization and computational studies of 3-{(E)-[(2-hydroxyphenyl)imino]methyl}benzene-1,2-diol and molecular structure of its zwitterionic form</strong>&nbsp; <em> Journal of Molecular Structure
+Available online 22 September 2017, https://doi.org/10.1016/j.molstruc.2017.09.083</em></li>
+ 
         <li> Santosh B. Katariya,Dinesh Patil, Lydia Rhyman, Ibrahim A.Alswaidan, Ponnadurai Ramasami, Nagaiyan Sekara,&nbsp;<strong>  Triphenylamine-based fluorescent NLO phores with ICT characteristics: Solvatochromic and theoretical study,</strong>&nbsp; <em> Journal of Molecular Structure Available online 28 August 2017, https://doi.org/10.1016/j.molstruc.2017.08.084 </em></li>
 
         <li> Kesete Ghebreyessus and Stefan M. Cooper, Jr. &nbsp;<strong> Photoswitchable Arylazopyrazole-Based Ruthenium(II) Arene Complexes </strong>&nbsp; <em> Organometallics 2017 36 (17), 3360-3370 DOI: 10.1021/acs.organomet.7b00493</em></li>
