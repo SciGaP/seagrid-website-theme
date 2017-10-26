@@ -9,6 +9,8 @@
 <ul style="line-height:1.6em;">
         <h3> 2017 </h3>
 
+       <li> Hanusha Bhakhoa, Lydia Rhyman, Edmond P. Lee, Daniel K. W. Mok, Ponnadurai Ramasami, John M. Dyke. &nbsp;<strong>  A study of the Group 1 metal tetra-aza macrocyclic complexes [M(Me4cyclen)(L)]+ using electronic structure calculations. </strong>&nbsp; <em> Dalton Trans.. -. http://dx.doi.org/10.1039/C7DT03002A. 2017 </em></li>
+
         <li> Adeloye, Adewale O. and Mphahlele, Malose J. and Adekunle, Abolanle S. and Rhyman, Lydia and Ramasami, Ponnadurai &nbsp;<strong> Spectroscopic, Electrochemical and DFT Studies of Phosphorescent Homoleptic Cyclometalated Iridium(III) Complexes Based on Substituted 4-Fluorophenylvinyl- and 4-Methoxyphenylvinylquinolines </strong>&nbsp; <em> Materials 2017, 10(10), 1061; doi:10.3390/ma10101061 </em></li>
 
         <li> Julius Chigozie Ezeorah, Valentine Ossai, Lawrence Nnamdi Obasi, Mohamed I. Elzagheid, Lydia Rhyman, Michael Lutter, Klaus Jurkschat, Necmi Dege, Ponnadurai Ramasami, d&nbsp;<strong> Synthesis, characterization and computational studies of 3-{(E)-[(2-hydroxyphenyl)imino]methyl}benzene-1,2-diol and molecular structure of its zwitterionic form</strong>&nbsp; <em> Journal of Molecular Structure
