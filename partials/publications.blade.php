@@ -9,7 +9,9 @@
 <ul style="line-height:1.6em;">
         <h3> 2017 </h3>
 
-       <li> Hanusha Bhakhoa, Lydia Rhyman, Edmond P. Lee, Daniel K. W. Mok, Ponnadurai Ramasami, John M. Dyke. &nbsp;<strong>  A study of the Group 1 metal tetra-aza macrocyclic complexes [M(Me4cyclen)(L)]+ using electronic structure calculations. </strong>&nbsp; <em> Dalton Trans.. -. http://dx.doi.org/10.1039/C7DT03002A. 2017 </em></li>
+      <li> Gawale, Yogesh and Rhyman, Lydia and Elzagheid, Mohamed I.  and Ramasami, Ponnadurai and Sekar, Nagaiyan &nbsp;<strong> Excited State and Non-linear Optical Properties of NIR Absorbing $\beta$-Thiophene-Fused BF2-Azadipyrromethene Dyes---Computational Investigation, </strong>&nbsp; <em> J Fluoresc (2017). https://doi.org/10.1007/s10895-017-2186-z </em></li>
+
+ <li> Hanusha Bhakhoa, Lydia Rhyman, Edmond P. Lee, Daniel K. W. Mok, Ponnadurai Ramasami, John M. Dyke. &nbsp;<strong>  A study of the Group 1 metal tetra-aza macrocyclic complexes [M(Me4cyclen)(L)]+ using electronic structure calculations. </strong>&nbsp; <em> Dalton Trans.. -. http://dx.doi.org/10.1039/C7DT03002A. 2017 </em></li>
 
         <li> Adeloye, Adewale O. and Mphahlele, Malose J. and Adekunle, Abolanle S. and Rhyman, Lydia and Ramasami, Ponnadurai &nbsp;<strong> Spectroscopic, Electrochemical and DFT Studies of Phosphorescent Homoleptic Cyclometalated Iridium(III) Complexes Based on Substituted 4-Fluorophenylvinyl- and 4-Methoxyphenylvinylquinolines </strong>&nbsp; <em> Materials 2017, 10(10), 1061; doi:10.3390/ma10101061 </em></li>
 
