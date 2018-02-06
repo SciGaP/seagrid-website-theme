@@ -7,6 +7,11 @@
 <h4>SEAGrid has enabled the following publications. See the <a href="{{URL::to('/')}}/pages/about">About</a> page to find out how to cite the SEAGrid project.</h4>
 
 <ul style="line-height:1.6em;">
+
+       <h3> 2018 </h3>
+        <li> Barushka Jadoo and Irvin Noel Booysen and Matthew Piers Akerman and Lydia Rhyman and Ponnadurai Ramasami&nbsp;<strong> Novel coumarin rhenium(I) and -(V) complexes: Formation, \{DFT\} and \{DNA\} binding studies</strong>&nbsp; <em> Polyhedron, 144, 108-118, 2018. https://doi.org/10.1016/j.poly.2018.01.017</em></li>
+
+
         <h3> 2017 </h3>
 
       <li> Gawale, Yogesh and Rhyman, Lydia and Elzagheid, Mohamed I.  and Ramasami, Ponnadurai and Sekar, Nagaiyan &nbsp;<strong> Excited State and Non-linear Optical Properties of NIR Absorbing $\beta$-Thiophene-Fused BF2-Azadipyrromethene Dyes---Computational Investigation, </strong>&nbsp; <em> J Fluoresc (2017). https://doi.org/10.1007/s10895-017-2186-z </em></li>
