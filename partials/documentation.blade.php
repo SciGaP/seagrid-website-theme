@@ -18,7 +18,7 @@
      <a target="_blank" href="https://scigap.atlassian.net/wiki/display/SEAGrid/SEAGrid+Documentation"> <h2>SEAGrid Wiki </h2> </a>
 </div>
 
-  <a target="_blank" href="https://scigap.atlassian.net/wiki/display/SEAGrid/SGCI+Workshop+2017"> <h4> SGCI Summer Workshop, Jackson State University, May 9-11,2017 </h4> </a>
+  <a target="_blank" href="https://scigap.atlassian.net/wiki/spaces/SEAGrid/pages/469041159/American+Chemical+Society+ACS+Workshop+on+Science+Gateways"> <h4> SGCI-MOLSSI Workshop at the ACS National Meeting, New Orleans, Mar 19-22,2018</h4> </a>
         <a target="_blank" href="http://www.iccs-meeting.org/"> <h4> ICCS 2017 International Conference on Computational Science </h4> </a> 
 
     <!--   target="_blank" href="https://scigap.atlassian.net/wiki/display/SEAGrid/Tutorials"> <h3> XSEDE 2016 Tutorial, 18 July 2016 </h3></a -->

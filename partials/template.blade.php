@@ -1,5 +1,5 @@
 <div class="col-md-12 text-center well">
-        <a target="_blank"href=" https://sciencegateways.org/acs2018"> <h4> Free American Chemical Society (ACS) Workshop on Science Gateways, New Orleans, LA, Mar 20, 2018 </h4> </a>
+        <a target="_blank"href="https://sciencegateways.org/acs2018"> <h4> Free American Chemical Society (ACS) Workshop on Science Gateways, New Orleans, LA, Mar 20, 2018 </h4> </a>
 </div>
 <div class="col-md-12 hero-unit">
 	<!--
