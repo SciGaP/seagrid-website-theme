@@ -10,9 +10,9 @@
 			<br/><br/>
 			Or 
 			<br/><br/>
-			<div class="col-md-12">
+			<!-- div class="col-md-12">
 				<span class="glyphicon glyphicon-edit" style="font-size:6em;"></span>
-			</div>
+			</div -->
 			<!-- h4 class="col-md-12">
 				You can create a <span id="serviceDeskHelp">JIRA ticket</span> by signing in <a href="https://scigap.atlassian.net/servicedesk/customer/portal/7" target="_blank">here</a>.
 			</h4 -->
