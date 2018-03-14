@@ -7,8 +7,7 @@
 			<h4 class="col-md-12">
 			You can contact SEAGrid by sending a mail to <a href="mailto:seagrid@scigap.atlassian.net">SEAGrid E-mail</a>
 			</h4>
-			<br/><br/>
-			Or 
+			<br/><br/> <!-- Or -->
 			<br/><br/>
 			<!-- div class="col-md-12">
 				<span class="glyphicon glyphicon-edit" style="font-size:6em;"></span>
