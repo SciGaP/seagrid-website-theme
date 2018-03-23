@@ -9,6 +9,19 @@
 <ul style="line-height:1.6em;">
 
        <h3> 2018 </h3>
+        <li> Gawale, Yogesh; Rhyman, Lydia; Elzagheid, Mohamed I.;  Ramasami, Ponnadurai; Sekar, Nagaiyan &nbsp;<strong>  Excited State and Non-linear Optical Properties of NIR Absorbing β-Thiophene-Fused BF2-Azadipyrromethene Dyes—Computational Investigation</strong>&nbsp; <em> Journal of Fluorescence 2018, 28, 243-250. https://doi.org/10.1007/s10895-017-2186-z </em></li>
+
+        <li> Jalal Z. A. Laloo  Lydia Rhyman  Olatz Larrañaga  Ponnadurai Ramasami Matthias Bickelhaupt  Abel de Cozar Ruano &nbsp;<strong>  Ion‐Pair SN2 Reaction of OH− and CH3Cl: Activation Strain analyses of Counterion and Solvent Effects </strong>&nbsp; <em> Chem. Asian J. 10.1002/asia.201800082 https://doi.org/10.1002/asia.201800082 </em></li>
+
+        <li> Eseoghene H. Umukoroa, Moses G. Peleyejua, Azeez O. Idrisa, Jane C. Ngilaab, Nonhlangabezo Mabubaab, Lydia Rhymanac, Ponnadurai Ramasami*ac and Omotayo A. Arotiba &nbsp;<strong> Photoelectrocatalytic application of palladium decorated zinc oxide-expanded graphite electrode for the removal of 4-nitrophenol: experimental and computational studies </strong>&nbsp; <em> RSC Adv., 2018, 8, 10255–10266, DOI: 10.1039/c8ra00180d </em></li>
+
+        <li> Ezeorah, Julius Chigozie; Ossai Valentine; Obasi Lawrence Nnamdi; Elzagheid, Mohamed I.;  Rhyman, Lydia; Lutter, Michael; Jurkschat, Klaus; Dege, Necmi; Ramasami, Ponnadurai 
+&nbsp;<strong>  Synthesis, characterization and computational studies of 3-{(E)-[(2-hydroxyphenyl)imino]methyl}benzene-1,2-diol and molecular structure of its zwitterionic form </strong>&nbsp; <em>  Journal of Molecular Structure 1152, 21 - 28 2018, https://doi.org/10.1016/j.molstruc.2017.09.083 </em></li>
+
+ <li> Yassin A. Jeilani, Brooke Ross, Nasrin Aweis, Chelesa Fearce, Huynh Minh Hung, and Minh Tho Nguyen &nbsp;<strong>  Reaction Routes for Experimentally Observed Intermediates in the Prebiotic Formation of Nucleobases under High-Temperature Conditions</strong>&nbsp; <em> The Journal of Physical Chemistry A 2018 122 (11), 2992-3003 DOI: 10.1021/acs.jpca.7b11466 </em></li>
+
+        <li> Uchechukwu Susan Oruma  Pius Oziri Ukoha  Lydia Rhyman  Mohamed I. Elzagheid Lawrence Nnamdi Obasi  Ponnadurai Ramasami  Klaus Jurkschat &nbsp;<strong> Synthesis, Characterization, Antimicrobial Screening, and Computational Studies of a Tripodal Schiff Base Containing Pyrimidine Unit </strong>&nbsp; <em> Journal of Heterocyclic Chemistry DOI 10.1002/jhet, https://doi.org/10.1002/jhet.3142 </em></li>
+
         <li> Barushka Jadoo and Irvin Noel Booysen and Matthew Piers Akerman and Lydia Rhyman and Ponnadurai Ramasami&nbsp;<strong> Novel coumarin rhenium(I) and -(V) complexes: Formation, \{DFT\} and \{DNA\} binding studies</strong>&nbsp; <em> Polyhedron, 144, 108-118, 2018. https://doi.org/10.1016/j.poly.2018.01.017</em></li>
 
 
