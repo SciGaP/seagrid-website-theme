@@ -9,6 +9,10 @@
 <ul style="line-height:1.6em;">
 
        <h3> 2018 </h3>
+
+        <li> Amol G. Jadhav, Lydia Rhyman, Ibrahim A. Alswaidan, Ponnadurai Ramasami, Nagaiyan Sekar &nbsp;<strong> Spectroscopic and DFT approach for structure property relationship of red emitting rhodamine analogues: A study of linear and nonlinear optical properties</strong>&nbsp; <em> Computational and Theoretical Chemistry, Volume 1131, 1 May 2018, Pages 1-12, ISSN 2210-271X, https://doi.org/10.1016/j.comptc.2018.03.029.</em></li> 
+
+
         <li> Gawale, Yogesh; Rhyman, Lydia; Elzagheid, Mohamed I.;  Ramasami, Ponnadurai; Sekar, Nagaiyan &nbsp;<strong>  Excited State and Non-linear Optical Properties of NIR Absorbing β-Thiophene-Fused BF2-Azadipyrromethene Dyes—Computational Investigation</strong>&nbsp; <em> Journal of Fluorescence 2018, 28, 243-250. https://doi.org/10.1007/s10895-017-2186-z </em></li>
 
         <li> Jalal Z. A. Laloo  Lydia Rhyman  Olatz Larrañaga  Ponnadurai Ramasami Matthias Bickelhaupt  Abel de Cozar Ruano &nbsp;<strong>  Ion‐Pair SN2 Reaction of OH− and CH3Cl: Activation Strain analyses of Counterion and Solvent Effects </strong>&nbsp; <em> Chem. Asian J. 10.1002/asia.201800082 https://doi.org/10.1002/asia.201800082 </em></li>
