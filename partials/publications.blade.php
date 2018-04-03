@@ -10,6 +10,8 @@
 
        <h3> 2018 </h3>
 
+        <li> Daniel Dumett Torres and Prashant K. Jain &nbsp;<strong> Strain Stabilization of Superionicity in Copper and Lithium Selenides </strong>&nbsp; <em> The Journal of Physical Chemistry Letters 2018 9 (6), 1200-1205,DOI: 10.1021/acs.jpclett.8b00236</em></li>
+
         <li> Amol G. Jadhav, Lydia Rhyman, Ibrahim A. Alswaidan, Ponnadurai Ramasami, Nagaiyan Sekar &nbsp;<strong> Spectroscopic and DFT approach for structure property relationship of red emitting rhodamine analogues: A study of linear and nonlinear optical properties</strong>&nbsp; <em> Computational and Theoretical Chemistry, Volume 1131, 1 May 2018, Pages 1-12, ISSN 2210-271X, https://doi.org/10.1016/j.comptc.2018.03.029.</em></li> 
 
 
