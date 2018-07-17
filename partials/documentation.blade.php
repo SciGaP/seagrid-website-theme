@@ -20,6 +20,7 @@
 
         <a target="_blank" href="https://scigap.atlassian.net/wiki/spaces/SEAGrid/pages/587497473/PEARC18+Gateways+Tutorial"> <h4> New Gateways User Tutorial @  PEARC2018 International Conference, Pittsburgh, July 22-27, 2018  </h4> </a> 
 
+        <a target="_blank" href="https://scigap.atlassian.net/wiki/spaces/SEAGrid/pages/590315529/PEARC18+Hackathon+Instruction"> <h4> SGCI-PEACR18 Hack-thon-instructionis for SEAGrid Hackers PEACR18 International Conference, Pittsburgh, July 22-27, 2018  </h4> </a> 
   <a target="_blank" href="https://scigap.atlassian.net/wiki/spaces/SEAGrid/pages/469041159/American+Chemical+Society+ACS+Workshop+on+Science+Gateways"> <h4> SGCI-MOLSSI Workshop at the ACS National Meeting, New Orleans, Mar 19-22,2018</h4> </a>
 
     <!--   target="_blank" href="https://scigap.atlassian.net/wiki/display/SEAGrid/Tutorials"> <h3> XSEDE 2016 Tutorial, 18 July 2016 </h3></a -->
