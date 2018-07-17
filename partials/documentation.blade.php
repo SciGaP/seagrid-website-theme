@@ -18,7 +18,7 @@
      <a target="_blank" href="https://scigap.atlassian.net/wiki/display/SEAGrid/SEAGrid+Documentation"> <h2>SEAGrid Wiki </h2> </a>
 </div>
 
-        <a target="_blank" href="https://scigap.atlassian.net/wiki/spaces/SEAGrid/pages/587497473/PEARC18+Gateways+Tutorial"> <h2> New Gateways User Tutorial @  PEARC2018 International Conference, Pittsburgh, July 22-27, 2018  </h2> </a> 
+        <a target="_blank" href="https://scigap.atlassian.net/wiki/spaces/SEAGrid/pages/587497473/PEARC18+Gateways+Tutorial"> <h4> New Gateways User Tutorial @  PEARC2018 International Conference, Pittsburgh, July 22-27, 2018  </h4> </a> 
 
   <a target="_blank" href="https://scigap.atlassian.net/wiki/spaces/SEAGrid/pages/469041159/American+Chemical+Society+ACS+Workshop+on+Science+Gateways"> <h4> SGCI-MOLSSI Workshop at the ACS National Meeting, New Orleans, Mar 19-22,2018</h4> </a>
 
