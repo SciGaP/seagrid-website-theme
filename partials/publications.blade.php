@@ -10,6 +10,14 @@
 
        <h3> 2018 </h3>
 
+       <li> Dhanashree Hallooman, Mar Ríos-Gutiérrez, Lydia Rhyman, Ibrahim A. Alswaidand, Luis R. Domingo and Ponnadurai Ramasami </strong>&nbsp; <em> DFT exploration of [3 + 2] cycloaddition reaction of 1H-phosphorinium-3-olate and 1-methylphosphorinium-3-olate with methyl methacrylate </strong>&nbsp; <em> RSC Adv., 2018, 8, 27406-27416, DOI: 10.1039/C8RA04703K </em></li>
+  
+       <li> Minu G. Bhowon, Sabina Jhaumeer Laulloo, Eric C. Hosten, Muzammil M. Khodabaccus, Lydia Rhyman, Ponnadurai Ramasami </strong>&nbsp; <em> Synthesis, spectroscopic, biological and DFT studies of new t-butyl substituted salicylaldimines having disulfide moiety </strong>&nbsp; <em> Journal of Molecular Structure, Volume 1175, 2019, Pages 13-23, ISSN 0022-2860, https://doi.org/10.1016/j.molstruc.2018.07.086.</em></li> 
+
+       <li> Siddheshwar D. Jadhav, Ibrahim A. Alswaidan, Lydia Rhyman, Ponnadurai Ramasami, Nagaiyan Sekar &nbsp;<strong> Effect of methoxy group on NLOphoric properties of fluorescent 7-arylstyryl-2-methoxyphenylimidazo[1,2-a]pyridine - Solvatochromic and computational method </strong>&nbsp; <em> Journal of Molecular Structure, Volume 1173, 2018, Pages 349-365, ISSN 0022-2860, https://doi.org/10.1016/j.molstruc.2018.07.010.</em></li>
+
+        <li> Rhyman, Lydia, Mahir Tursun, Hassan H. Abdallah, et al. &nbsp;<strong> "Theoretical investigation of the derivatives of favipiravir (T-705) as potential drugs for Ebola virus" </strong>&nbsp; <em> Physical Sciences Reviews, 3.9 (2018): -. Retrieved 10 Sep. 2018, from doi:10.1515/psr-2017-0198 </em></li>
+
         <li> Daniel Dumett Torres and Prashant K. Jain &nbsp;<strong> Strain Stabilization of Superionicity in Copper and Lithium Selenides </strong>&nbsp; <em> The Journal of Physical Chemistry Letters 2018 9 (6), 1200-1205,DOI: 10.1021/acs.jpclett.8b00236</em></li>
 
         <li> Amol G. Jadhav, Lydia Rhyman, Ibrahim A. Alswaidan, Ponnadurai Ramasami, Nagaiyan Sekar &nbsp;<strong> Spectroscopic and DFT approach for structure property relationship of red emitting rhodamine analogues: A study of linear and nonlinear optical properties</strong>&nbsp; <em> Computational and Theoretical Chemistry, Volume 1131, 1 May 2018, Pages 1-12, ISSN 2210-271X, https://doi.org/10.1016/j.comptc.2018.03.029.</em></li> 
@@ -19,7 +27,7 @@
 
         <li> Jalal Z. A. Laloo  Lydia Rhyman  Olatz Larrañaga  Ponnadurai Ramasami Matthias Bickelhaupt  Abel de Cozar Ruano &nbsp;<strong>  Ion‐Pair SN2 Reaction of OH− and CH3Cl: Activation Strain analyses of Counterion and Solvent Effects </strong>&nbsp; <em> Chem. Asian J. 10.1002/asia.201800082 https://doi.org/10.1002/asia.201800082 </em></li>
 
-        <li> Eseoghene H. Umukoroa, Moses G. Peleyejua, Azeez O. Idrisa, Jane C. Ngilaab, Nonhlangabezo Mabubaab, Lydia Rhymanac, Ponnadurai Ramasami*ac and Omotayo A. Arotiba &nbsp;<strong> Photoelectrocatalytic application of palladium decorated zinc oxide-expanded graphite electrode for the removal of 4-nitrophenol: experimental and computational studies </strong>&nbsp; <em> RSC Adv., 2018, 8, 10255–10266, DOI: 10.1039/c8ra00180d </em></li>
+        <li> Eseoghene H. Umukoro, Moses G. Peleyeju, Azeez O. Idris, Jane C. Ngilaa, Nonhlangabezo Mabubaa, Lydia Rhyman, Ponnadurai Ramasami and Omotayo A. Aroti &nbsp;<strong> Photoelectrocatalytic application of palladium decorated zinc oxide-expanded graphite electrode for the removal of 4-nitrophenol: experimental and computational studies </strong>&nbsp; <em> RSC Adv., 2018, 8, 10255–10266, DOI: 10.1039/c8ra00180d </em></li>
 
         <li> Ezeorah, Julius Chigozie; Ossai Valentine; Obasi Lawrence Nnamdi; Elzagheid, Mohamed I.;  Rhyman, Lydia; Lutter, Michael; Jurkschat, Klaus; Dege, Necmi; Ramasami, Ponnadurai 
 &nbsp;<strong>  Synthesis, characterization and computational studies of 3-{(E)-[(2-hydroxyphenyl)imino]methyl}benzene-1,2-diol and molecular structure of its zwitterionic form </strong>&nbsp; <em>  Journal of Molecular Structure 1152, 21 - 28 2018, https://doi.org/10.1016/j.molstruc.2017.09.083 </em></li>
