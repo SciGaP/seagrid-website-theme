@@ -10,7 +10,10 @@
 
        <h3> 2018 </h3>
 
-       <li> Dhanashree Hallooman, Mar Ríos-Gutiérrez, Lydia Rhyman, Ibrahim A. Alswaidand, Luis R. Domingo and Ponnadurai Ramasami </strong>&nbsp; <em> DFT exploration of [3 + 2] cycloaddition reaction of 1H-phosphorinium-3-olate and 1-methylphosphorinium-3-olate with methyl methacrylate </strong>&nbsp; <em> RSC Adv., 2018, 8, 27406-27416, DOI: 10.1039/C8RA04703K </em></li>
+      <li> Susmita Mandal, Mousumi Das, Piu Das, Amalesh Samanta, Ray J. Butcher, Manan Saha, Ibrahim A. Alswaidan, Lydia Rhyman, Ponnadurai Ramasami, Nitis Chandra Saha,&nbsp;<strong> Synthesis, characterization, DFT and antimicrobial studies of transition metal ion complexes of a new schiff base ligand, 5-methylpyrazole-3yl-N-(2́-hydroxyphenylamine)methyleneimine, (MPzOAP),
+</strong>&nbsp; <em> Journal of Molecular Structure, 2018, , ISSN 0022-2860, https://doi.org/10.1016/j.molstruc.2018.09.095. </em></li> 
+ 
+       <li> Dhanashree Hallooman, Mar Ríos-Gutiérrez, Lydia Rhyman, Ibrahim A. Alswaidand, Luis R. Domingo and Ponnadurai Ramasami &nbsp;<strong> DFT exploration of [3 + 2] cycloaddition reaction of 1H-phosphorinium-3-olate and 1-methylphosphorinium-3-olate with methyl methacrylate </strong>&nbsp; <em> RSC Adv., 2018, 8, 27406-27416, DOI: 10.1039/C8RA04703K </em></li>
   
        <li> Minu G. Bhowon, Sabina Jhaumeer Laulloo, Eric C. Hosten, Muzammil M. Khodabaccus, Lydia Rhyman, Ponnadurai Ramasami </strong>&nbsp; <em> Synthesis, spectroscopic, biological and DFT studies of new t-butyl substituted salicylaldimines having disulfide moiety </strong>&nbsp; <em> Journal of Molecular Structure, Volume 1175, 2019, Pages 13-23, ISSN 0022-2860, https://doi.org/10.1016/j.molstruc.2018.07.086.</em></li> 
 
