@@ -31,7 +31,7 @@
 			<h3>Cite:</h3>
 			<h4>Citing SEAGrid in academic papers helps us show impact. If you use SEAGrid in your research please help by including the following citation information and acknowledgement in your paper.</h4>
 			<p>SEAGrid (<a href="https://seagrid.org">http:www.seagrid.org</a>)[*] is acknowledged for computational resources and services for the selected results used in this publication. </p>
-			<p> * (a) S. Pamidighantama, S Nakandala, E. Abeysinghe, C Wimalasena, S. Rathnayakae, S. Marru, M. Pierce, Community Science Exemplars in SEAGrid Science Gateway: Apache Airavata Based Implementation of Advanced Infrastructure, Procedia Computer Science Volume 80, 2016, Pages 1927–1939 </p>
+			<p> * (a) S. Pamidighantam, S Nakandala, E. Abeysinghe, C Wimalasena, S. Rathnayakae, S. Marru, M. Pierce, Community Science Exemplars in SEAGrid Science Gateway: Apache Airavata Based Implementation of Advanced Infrastructure, Procedia Computer Science Volume 80, 2016, Pages 1927–1939 </p>
 			<p> (b) N. Shen, Y. Fan, S. Pamidighantam, E-Science Infrastructures for Molecular Modeling and Parametrization, Journal of Computational Science 5 (2014), pp. 576-589; DOI information: 10.1016/j.jocs.2014.01.005</p>
 			<p> (c) R. Dooley, K. Milfeld, C. Guiang, S. Pamidighantam, G. Allen, From Proposal to Production: Lessons Learned Developing the Computational Chemistry Grid Cyberinfrastructure, Journal of Grid Computing, 2006, 4, 195-208. </p>
 			<p> (d) K. Milfeld, C. Guiang, S. Pamidighantam, J. Giuliani. Cluster Computing through an Application-oriented Computational Chemistry Grid. Proceedings of the 2005 Linux Clusters: The HPC Revolution, Apr. 2005. </p>
