@@ -9,10 +9,12 @@
 <ul style="line-height:1.6em;">
 
        <h3> 2018 </h3>
-     
-      <li> J. Heo, D. Dumett Torres, and P. K. Jain. Unconventional Long-Range Order in Copper Selenide Nanocrystals. Submitted to Chem. Mater., 2018. </em></li>
 
-     <li> J. Heo, D. Dumett Torres, P. Banerjee, and P. K. Jain. In-Situ TEM Observation of an Order-Disorder Transition in Superionic Conductor Cu2Se. Submitted to Nat. Mater., 2018. </em></li>
+     <li> Sekar, N., Katariya, S., Rhyman, L. et al. &nbsp;<strong> Molecular and NLO Properties of Red Fluorescent Coumarins – DFT Computations Using Long-Range Separated and Conventional Functionals </strong>&nbsp; <em> J Fluoresc (2018). https://doi.org/10.1007/s10895-018-2333-1 </em></li>
+     
+      <li> J. Heo, D. Dumett Torres, and P. K. Jain. &nbsp;<strong> Unconventional Long-Range Order in Copper Selenide Nanocrystals. </strong>&nbsp; <em> Submitted to Chem. Mater., 2018. </em></li>
+
+     <li> J. Heo, D. Dumett Torres, P. Banerjee, and P. K. Jain. &nbsp;<strong> In-Situ TEM Observation of an Order-Disorder Transition in Superionic Conductor Cu2Se. </strong>&nbsp; <em> Submitted to Nat. Mater., 2018. </em></li>
  
       <li> Dumett Torres, Daniel, Jain, Prashant K. &nbsp;<strong>  Strain Stabilization of Superionicity in Copper and Lithium Selenides </strong>&nbsp; <em> J. Phys. Chem. Lett., 2018, 9 (6), pp 1200–1205, DOI: 10.1021/acs.jpclett.8b00236 </em></li>
 
