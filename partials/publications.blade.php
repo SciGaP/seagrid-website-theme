@@ -18,17 +18,16 @@
  
       <li> Dumett Torres, Daniel, Jain, Prashant K. &nbsp;<strong>  Strain Stabilization of Superionicity in Copper and Lithium Selenides </strong>&nbsp; <em> J. Phys. Chem. Lett., 2018, 9 (6), pp 1200–1205, DOI: 10.1021/acs.jpclett.8b00236 </em></li>
 
-       <li> Leila Tabrizi, Duy Quang Dao, Thuy An Vu, "Experimental and Theoretical Evaluation on Antioxidant Activity of Copper (II) Complex Based on Lidocaine and Ibuprofen Amide-Phenanthroline Agents", Inorganic Chemistry (2018), (Under revision with manuscript ID ic-2018-02153m). </em></li>
+       <li> Leila Tabrizi, Duy Quang Dao, Thuy An Vu, &nbsp;<strong> Experimental and Theoretical Evaluation on Antioxidant Activity of Copper (II) Complex Based on Lidocaine and Ibuprofen Amide-Phenanthroline Agents, </strong>&nbsp; <em> Inorganic Chemistry (2018), (Under revision with manuscript ID ic-2018-02153m). </em></li>
       
        
       <li> Jalal Z. A. Laloo  Nandini Savoo  Nassirah Laloo  Lydia Rhyman  Ponnadurai Ramasam, &nbsp;<strong>  ExcelAutomat 1.3: Fragment analysis based on the distortion/interaction‐activation strain model </strong>&nbsp; <em>  Journal of Computational Chemistry 2018, Pages 1-6, https://doi.org/10.1002/jcc.25546 </em></li>
      
-      <li> Dimer Products from Ligand-Exchange Reactions During Thermal Atomic Layer Etching" Andrew Cavanagh' Joel Clancey' Sandeep Sharma' Steven George, 18th International Conference on Atomic Layer Deposition, Incheon, South Korea, July 2018. </em></li>
+      <li> Andrew Cavanagh' Joel Clancey' Sandeep Sharma' Steven George, &nbsp;<strong> Dimer Products from Ligand-Exchange Reactions During Thermal Atomic Layer Etching, </strong>&nbsp; <em>  18th International Conference on Atomic Layer Deposition, Incheon, South Korea, July 2018. </em></li>
  
-      <li> Susmita Mandal, Mousumi Das, Piu Das, Amalesh Samanta, Ray J. Butcher, Manan Saha, Ibrahim A. Alswaidan, Lydia Rhyman, Ponnadurai Ramasami, Nitis Chandra Saha,&nbsp;<strong> Synthesis, characterization, DFT and antimicrobial studies of transition metal ion complexes of a new schiff base ligand, 5-methylpyrazole-3yl-N-(2́-hydroxyphenylamine)methyleneimine, (MPzOAP),
-</strong>&nbsp; <em> Journal of Molecular Structure, 2018, , ISSN 0022-2860, https://doi.org/10.1016/j.molstruc.2018.09.095. </em></li> 
+      <li> Susmita Mandal, Mousumi Das, Piu Das, Amalesh Samanta, Ray J. Butcher, Manan Saha, Ibrahim A. Alswaidan, Lydia Rhyman, Ponnadurai Ramasami, Nitis Chandra Saha,&nbsp;<strong> Synthesis, characterization, DFT and antimicrobial studies of transition metal ion complexes of a new schiff base ligand, 5-methylpyrazole-3yl-N-(2́-hydroxyphenylamine)methyleneimine, (MPzOAP), </strong>&nbsp; <em> Journal of Molecular Structure, 2018, , ISSN 0022-2860, https://doi.org/10.1016/j.molstruc.2018.09.095. </em></li> 
  
-       <li> Thi Chinh Ngo, Nguyen Thi Hau, Duy Quang Dao, "Radical Scavenging Activity of Natural-based Cassaine Diterpenoid Amides and Amines", Journal of Chemical Information and Modeling (2018), (Under review with manuscript ID ci-2018-00644c) </em></li>
+       <li> Thi Chinh Ngo, Nguyen Thi Hau, Duy Quang Dao, &nbsp;<strong> Radical Scavenging Activity of Natural-based Cassaine Diterpenoid Amides and Amines, </strong>&nbsp; <em>  Journal of Chemical Information and Modeling (2018), (Under review with manuscript ID ci-2018-00644c) </em></li>
 
        <li> Dhanashree Hallooman, Mar Ríos-Gutiérrez, Lydia Rhyman, Ibrahim A. Alswaidand, Luis R. Domingo and Ponnadurai Ramasami &nbsp;<strong> DFT exploration of [3 + 2] cycloaddition reaction of 1H-phosphorinium-3-olate and 1-methylphosphorinium-3-olate with methyl methacrylate </strong>&nbsp; <em> RSC Adv., 2018, 8, 27406-27416, DOI: 10.1039/C8RA04703K </em></li>
   
