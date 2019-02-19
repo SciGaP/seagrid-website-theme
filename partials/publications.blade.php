@@ -12,6 +12,8 @@
 
 	<li> Minu G. Bhowon, Sabina Jhaumeer Laulloo, Eric C. Hosten, Muzammil M. Khodabaccus, Lydia Rhyman, Ponnadurai Ramasami&nbsp;<strong> Synthesis, spectroscopic, biological and DFT studies of new t-butyl substituted salicylaldimines having disulfide moiety </strong>&nbsp; <em> Journal of Molecular Structure, Volume 1175, 2019, Pages 13-23, https://doi.org/10.1016/j.molstruc.2018.07.086. </em></li>
 
+       <li> Susmita Mandal, Mousumi Das, Piu Das, Amalesh Samanta, Ray J. Butcher, Manan Saha, Ibrahim A. Alswaidan, Lydia Rhyman, Ponnadurai Ramasami, Nitis Chandra Saha &nbsp;<strong>  Synthesis, characterization, DFT and antimicrobial studies of transition metal ion complexes of a new schiff base ligand, 5-methylpyrazole-3yl-N-(2́-hydroxyphenylamine)methyleneimine, (MPzOAP) </strong>&nbsp; <em> Journal of Molecular Structure, Volume 1178, 2019, Pages 100-111, ISSN 0022-2860, https://doi.org/10.1016/j.molstruc.2018.09.095. </em></li>
+
        <h3> 2018 </h3>
 
      <li> Sekar, N., Katariya, S., Rhyman, L. et al. &nbsp;<strong> Molecular and NLO Properties of Red Fluorescent Coumarins – DFT Computations Using Long-Range Separated and Conventional Functionals </strong>&nbsp; <em> J Fluoresc (2018). https://doi.org/10.1007/s10895-018-2333-1 </em></li>
