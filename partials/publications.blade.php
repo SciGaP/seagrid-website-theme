@@ -10,6 +10,8 @@
 
        <h3> 2019 </h3>
 
+        <li> Hanusha Bhakhoa, Lydia Rhyman and Ponnadurai Ramasami &nbsp;<strong> Theoretical study of the molecular aspect of the suspected novichok agent A234 of the Skripal poisoning </strong>&nbsp; <em> Royal Society Open Science,  http://doi.org/10.1098/rsos.181831 </em></li>
+
         <li> Thi Chinh Ngo, Thi Hau Nguyen, and Duy Quang Dao &nbsp;<strong>  Radical Scavenging Activity of Natural-Based Cassaine Diterpenoid Amides and Amines </strong>&nbsp; <em> Journal of Chemical Information and Modeling Article ASAP
 DOI: 10.1021/acs.jcim.8b00847  </em></li>
 
