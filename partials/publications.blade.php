@@ -8,7 +8,9 @@
 
 <ul style="line-height:1.6em;">
 
-      <h3> 2019 </h3>
+       <h3> 2019 </h3>
+
+	<li> Minu G. Bhowon, Sabina Jhaumeer Laulloo, Eric C. Hosten, Muzammil M. Khodabaccus, Lydia Rhyman, Ponnadurai Ramasami&nbsp;<strong> Synthesis, spectroscopic, biological and DFT studies of new t-butyl substituted salicylaldimines having disulfide moiety </strong>&nbsp; <em> Journal of Molecular Structure, Volume 1175, 2019, Pages 13-23, https://doi.org/10.1016/j.molstruc.2018.07.086. </em></li>
 
        <h3> 2018 </h3>
 
