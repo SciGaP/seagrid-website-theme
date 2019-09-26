@@ -9,6 +9,29 @@
 <ul style="line-height:1.6em;">
 
        <h3> 2019 </h3>
+        
+        <li> Lawrence Nnamdi Obasi, Julius Chigozie Ezeorah, Valentine Ossai, Ayogu Jude, Uchechukwu Susan Oruma, Akachukwu Ibezim, Michael Lutter, Lydia Rhyman, Klaus Jurkschat, Necmi Dege, Ponnadurai Ramasami,&nbsp;<strong> Structural, computational and in silico studies of Schiff bases derived from 2,3-dihydroxybenzaldehyde and molecular structure of their zwitterionic forms,
+Journal of Molecular Structure,</strong>&nbsp; <em> Volume 1188, 2019, Pages 69-75, ISSN 0022-2860, https://doi.org/10.1016/j.molstruc.2019.03.081.</em></li>
+
+        <li> Chitra Sarkar, Saikiran Pendem, Abhijit Shrotri, Duy Quang Dao, Phuong Pham Thi Mai, Tue Nguyen Ngoc, Dhanunjaya Rao Chandaka, Tumula Venkateshwar Rao, Quang Thang Trinh, Matthew P. Sherburne, and John Mondal. &nbsp;<strong> “Interface Engineering of Graphene-Supported Cu Nanoparticles Encapsulated by Mesoporous Silica for Size-Dependent Catalytic Oxidative Coupling of Aromatic Amines”, </strong>&nbsp; <em> ACS Applied Material and Interfaces 2019, 11, 11722−11735, DOI: 10.1021/acsami.8b18675</em></li>
+
+        <li> Veikko Uahengo, Ping Cai, Johannes Naimhwaka, Ateeq Rahman, Likius S. Daniel, Hanusha Bhakhoa, Lydia Rhyman, Ponnadurai Ramasami,&nbsp;<strong> Photophysical, electrochemical, and DFT studies of the novel azacrown-bridged dinuclear ruthenium dye sensitizers for solar cells,</strong>&nbsp; <em> Polyhedron, Volume 173, 2019, 114106, ISSN 0277-5387, https://doi.org/10.1016/j.poly.2019.114106.</em></li>
+
+        <li> J. Heo, D. Dumett Torres, P. Banerjee, and P. K. Jain.&nbsp;<strong> In-Situ Electron Microscopy Mapping of an Order-Disorder Transition in a Superionic Conductor.</strong>&nbsp; <em> Nat. Comm. 2019, 10, 1505.</em></li>
+
+        <li> Grace Busayo Peleyeju, Talla Emmanuel, Charlotte Mungho Tata, Marthe Carine Djuidje Fotsing, Nicolette Niemann, Lydia Rhyman, Charmaine Arderne, Derek Tantoh Ndinteh, Ponnadurai Ramasami, &nbsp;<strong> Crystal structure and antibacterial activity of scandenone (warangalone) from Erythrina plants,</strong>&nbsp; <em> Journal of Molecular Structure, Volume 1191, 2019, Pages 43-51, ISSN 0022-2860, https://doi.org/10.1016/j.molstruc.2019.04.070.</em></li>
+
+        <li> J. Heo, D. Dumett Torres, and P. K. Jain. &nbsp;<strong>  Unconventional Long-Range Cation Ordering in Copper Selenide Nanocrystals. </strong>&nbsp; <em> Chem. Mater. 2019, 31, 68 - 72. </em></li>
+
+        <li> Irvin Noel Booysen, Vuyelwa Ngwenya, Allen Mambanda, Mthokozisi Simelane, Lydia Rhyman, Ponnadurai Ramasami,&nbsp;<strong> Synthesis, characterization, biological and DFT studies of new 4-substituted phthalonitriles, </strong>&nbsp;<em>  Journal of Molecular Structure, Volume 1191, 2019, Pages 244-252, ISSN 0022-2860, https://doi.org/10.1016/j.molstruc.2019.04.104 </em></li>
+
+        <li> Laloo, Jalal Z. A., Savoo, N., Laloo, N., Rhyman, L., Ramasami, P. &nbsp;<strong> ExcelAutomat 1.3: Fragment analysis based on the distortion/interaction‐activation strain model </strong>&nbsp; <em> J. Comput. Chem. 2019, 40, 619– 624. DOI: 10.1002/jcc.25546 </em></li>
+
+        <li> Poster: D. Dumett Torres, J. Heo, P. Banerjee, S. Pamidighantam, and P. K. Jain &nbsp;<strong> (2019, January). Electronic Structure Investigations of Nanocrystal Phases and Transformations. </strong>&nbsp;  <em> Nanomaterials for Energy Storage and Conversion Winter School. Tel Aviv University, Israel.</em></li>
+
+        <li> Lawrence Nnamdi Obasi, Julius Chigozie Ezeorah, Valentine Ossai, Ayogu Jude, Uchechukwu Susan Oruma, Akachukwu Ibezim, Michael Lutter, Lydia Rhyman, Klaus Jurkschat, Necmi Dege, Ponnadurai Ramasami, &nbsp;<strong> Structural, computational and in silico studies of Schiff bases derived from 2,3-dihydroxybenzaldehyde and molecular structure of their zwitterionic forms, </strong>&nbsp; <em> Journal of Molecular Structure, Volume 1188, 2019, Pages 69-75, ISSN 0022-2860, https://doi.org/10.1016/j.molstruc.2019.03.081. </em></li>
+
+        <li> Sekar, N., Katariya, S., Rhyman, L. et al.  &nbsp;<strong> Molecular and NLO Properties of Red Fluorescent Coumarins – DFT Computations Using Long-Range Separated and Conventional Functionals </strong>&nbsp; <em> J Fluoresc (2019) 29: 241. https://doi.org/10.1007/s10895-018-2333-1 </em></li> 
 
         <li> Hanusha Bhakhoa, Lydia Rhyman and Ponnadurai Ramasami &nbsp;<strong> Theoretical study of the molecular aspect of the suspected novichok agent A234 of the Skripal poisoning </strong>&nbsp; <em> Royal Society Open Science,  http://doi.org/10.1098/rsos.181831 </em></li>
 
