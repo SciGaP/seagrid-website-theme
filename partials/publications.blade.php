@@ -38,7 +38,7 @@ Journal of Molecular Structure,</strong>&nbsp; <em> Volume 1188, 2019, Pages 69-
         <li> Thi Chinh Ngo, Thi Hau Nguyen, and Duy Quang Dao &nbsp;<strong>  Radical Scavenging Activity of Natural-Based Cassaine Diterpenoid Amides and Amines </strong>&nbsp; <em> Journal of Chemical Information and Modeling Article ASAP
 DOI: 10.1021/acs.jcim.8b00847  </em></li>
 
-        <li> Leila Tabrizi‡  ORCID logo*a, Duy Quang Dao‡ORCID logo*b and Thuy An Vu &nbsp;<strong> Experimental and theoretical evaluation on the antioxidant activity of a copper(II) complex based on lidocaine and ibuprofen amide-phenanthroline agents </strong>&nbsp; <em> DOI: 10.1039/C8RA09763A (Paper) RSC Adv., 2019, 9, 3320-3335 </em></li>
+        <li> Leila Tabrizi‡  , Duy Quang Dao‡ and Thuy An Vu &nbsp;<strong> Experimental and theoretical evaluation on the antioxidant activity of a copper(II) complex based on lidocaine and ibuprofen amide-phenanthroline agents </strong>&nbsp; <em> DOI: 10.1039/C8RA09763A (Paper) RSC Adv., 2019, 9, 3320-3335 </em></li>
 
 	<li> Minu G. Bhowon, Sabina Jhaumeer Laulloo, Eric C. Hosten, Muzammil M. Khodabaccus, Lydia Rhyman, Ponnadurai Ramasami&nbsp;<strong> Synthesis, spectroscopic, biological and DFT studies of new t-butyl substituted salicylaldimines having disulfide moiety </strong>&nbsp; <em> Journal of Molecular Structure, Volume 1175, 2019, Pages 13-23, https://doi.org/10.1016/j.molstruc.2018.07.086. </em></li>
 
